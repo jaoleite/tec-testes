@@ -1,0 +1,131 @@
+{
+	"status": 201,
+	"response": {
+		"id": 2948642262,
+		"date_created": "2017-08-27T22:29:51.000-04:00",
+		"date_approved": "2017-08-27T22:29:52.000-04:00",
+		"date_last_updated": "2017-08-27T22:29:52.000-04:00",
+		"date_of_expiration": null,
+		"money_release_date": "2017-09-10T22:29:52.000-04:00",
+		"operation_type": "regular_payment",
+		"issuer_id": "25",
+		"payment_method_id": "visa",
+		"payment_type_id": "credit_card",
+		"status": "approved",
+		"status_detail": "accredited",
+		"currency_id": "BRL",
+		"description": "Plano Padr&atilde;o",
+		"live_mode": true,
+		"sponsor_id": null,
+		"authorization_code": "1234567",
+		"money_release_schema": null,
+		"related_exchange_rate": null,
+		"collector_id": 182754527,
+		"payer": {
+			"type": "guest",
+			"id": null,
+			"email": "test_user_14004193@testuser.com",
+			"identification": {
+				"type": "CPF",
+				"number": "111111111111"
+			},
+			"phone": {
+				"area_code": "01",
+				"number": "1111-1111",
+				"extension": ""
+			},
+			"first_name": "Test",
+			"last_name": "Test",
+			"entity_type": null
+		},
+		"metadata": {
+			
+		},
+		"additional_info": {
+			"items": [
+				{
+					"id": "227888",
+					"title": "Plano Padr&atilde;o",
+					"description": "Plano Padr&atilde;o",
+					"picture_url": null,
+					"category_id": "learnings",
+					"quantity": "1",
+					"unit_price": "29.9"
+				}
+			],
+			"payer": {
+				"phone": {
+					"area_code": "62",
+					"number": "11111111"
+				},
+				"address": {
+					"zip_code": "12301601",
+					"street_name": "rua",
+					"street_number": "21"
+				},
+				"first_name": "João Paulo",
+				"last_name": "Leite",
+				"registration_date": "2012-12-19T18:14:34.616-05:00"
+			}
+		},
+		"order": {
+			
+		},
+		"external_reference": "170870",
+		"transaction_amount": 29.9,
+		"transaction_amount_refunded": 0,
+		"coupon_amount": 0,
+		"differential_pricing_id": null,
+		"deduction_schema": null,
+		"transaction_details": {
+			"net_received_amount": 28.41,
+			"total_paid_amount": 32.59,
+			"overpaid_amount": 0,
+			"external_resource_url": null,
+			"installment_amount": 6.52,
+			"financial_institution": null,
+			"payment_method_reference_id": "1234567",
+			"payable_deferral_period": null,
+			"acquirer_reference": null
+		},
+		"fee_details": [
+			{
+				"type": "financing_fee",
+				"fee_payer": "payer",
+				"amount": 2.69
+			},
+			{
+				"type": "mercadopago_fee",
+				"amount": 1.49,
+				"fee_payer": "collector"
+			}
+		],
+		"captured": true,
+		"binary_mode": false,
+		"call_for_authorize_id": null,
+		"statement_descriptor": "MERCPAGO",
+		"installments": 5,
+		"card": {
+			"id": null,
+			"first_six_digits": "423564",
+			"last_four_digits": "5682",
+			"expiration_month": 1,
+			"expiration_year": 2018,
+			"date_created": "2017-08-27T22:29:51.000-04:00",
+			"date_last_updated": "2017-08-27T22:29:51.000-04:00",
+			"cardholder": {
+				"name": "VISA",
+				"identification": {
+					"number": "01434871169",
+					"type": "CPF"
+				}
+			}
+		},
+		"notification_url": null,
+		"refunds": [],
+		"processing_mode": "aggregator",
+		"merchant_account_id": null,
+		"acquirer": null,
+		"merchant_number": null
+	}
+}

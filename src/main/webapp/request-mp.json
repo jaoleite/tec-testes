@@ -1,0 +1,60 @@
+{
+	"transaction_amount": 10,
+	"description": "Boleto Registrado",
+	"payment_method_id": "bolbradesco",
+	"date_of_expiration": "2017-10-03T06:00:00.000-04:00",
+	"payer": {
+		"email": "ghayashi.test02@gmail.com",
+		"first_name": "Guilherme",
+		"last_name": "Hayashi",
+		"identification": {
+			"type": "CPF",
+			"number": "19119119100"
+		},
+		"address": {
+			"zip_code": "06233-200",
+			"street_name": "Av. das Na\u00e7\u00f5es Unidas",
+			"street_number": "3003",
+			"neighborhood": "Bonfim",
+			"city": "Osasco",
+			"federal_unit": "SP"
+		}
+	},
+	"notification_url": "https:\/\/requestb.in\/pzyb14pz",
+	"additional_info": {
+		"items": [
+			{
+				"id": "item-ID-1234",
+				"title": "Title of what you are paying for",
+				"picture_url": "https:\/\/www.mercadopago.com\/org-img\/MP3\/home\/logomp3.gif",
+				"description": "Item description",
+				"category_id": "art",
+				"quantity": 1,
+				"unit_price": 10
+			}
+		],
+		"payer": {
+			"first_name": "Guilherme",
+			"last_name": "Hayashi",
+			"registration_date": "2017-06-02T12:58:41.425-04:00",
+			"phone": {
+				"area_code": "11",
+				"number": "4444-4444"
+			},
+			"address": {
+				"zip_code": "06233-200",
+				"street_name": "Av. das Na\u00e7\u00f5es Unidas",
+				"street_number": "3003"
+			}
+		},
+		"shipments": {
+			"receiver_address": {
+				"zip_code": "04552000",
+				"street_name": "Rocio",
+				"street_number": 123,
+				"floor": 7,
+				"apartment": "71"
+			}
+		}
+	}
+}

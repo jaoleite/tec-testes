@@ -1,0 +1,1411 @@
+[
+	{
+		"id": 1187,
+		"nome": "Abuso de Poder: Excesso de Poder e Desvio de Finalidade (poderes da Administração)",
+		"hierarquia": "05.06",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 3776,
+		"nome": "Acessibilidade aos cargos e empregos públicos",
+		"hierarquia": "09.07",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 5792,
+		"nome": "Acesso à Informação nos Estados, DF e Municípios",
+		"hierarquia": "02.03",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 1171,
+		"nome": "Acumulação de cargos e empregos públicos e funções",
+		"hierarquia": "09.08",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 510,
+		"nome": "Administração Direta (órgãos públicos)",
+		"hierarquia": "04.01.01",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 511,
+		"nome": "Administração Indireta",
+		"hierarquia": "04.01.02",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 2644,
+		"nome": "Afetação e Desafetação (bens públicos)",
+		"hierarquia": "08.01.02",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 3235,
+		"nome": "Agentes Administrativos (servidores públicos estatais)",
+		"hierarquia": "09.02.02",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 3233,
+		"nome": "Agentes Políticos",
+		"hierarquia": "09.02.01",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 537,
+		"nome": "Agentes Públicos",
+		"hierarquia": "09",
+		"subTree": [
+			{
+				"id": 1308,
+				"nome": "Agentes temporários",
+				"hierarquia": "09.02.04",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 5770,
+				"nome": "Aposentadoria e Seguridade (Servidores Estaduais e Municipais)",
+				"hierarquia": "09.15.05",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 3777,
+				"nome": "Aposentadorias",
+				"hierarquia": "09.09.01",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 2649,
+				"nome": "Associação sindical e direito de greve",
+				"hierarquia": "09.12",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 2221,
+				"nome": "Classificação das funções, cargos e empregos públicos",
+				"hierarquia": "09.03",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1165,
+				"nome": "Classificação para agentes públicos",
+				"hierarquia": "09.02",
+				"subTree": [
+					{
+						"id": 3234,
+						"nome": "Particulares em colaboração com o Estado",
+						"hierarquia": "09.02.03",
+						"indice": 1,
+						"contagem": 0
+					}
+				],
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 2220,
+				"nome": "Conceito para agentes públicos",
+				"hierarquia": "09.01",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1169,
+				"nome": "Concurso Público",
+				"hierarquia": "09.06",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1967,
+				"nome": "Criação, transformação e extinção de cargos públicos",
+				"hierarquia": "09.04",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 2798,
+				"nome": "Da abrangência da Lei 8.112",
+				"hierarquia": "09.14.15",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1143,
+				"nome": "Da seguridade social do servidor (Lei 8.112 - arts. 183 a 230)",
+				"hierarquia": "09.14.14",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 2646,
+				"nome": "Das férias (Lei 8.112 - arts. 77 a 80)",
+				"hierarquia": "09.14.08",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1138,
+				"nome": "Das gratificações e adicionais (Lei 8.112 - arts. 61 a 76)",
+				"hierarquia": "09.14.07",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1137,
+				"nome": "Das indenizações (Lei 8.112 - arts. 51 a 60)",
+				"hierarquia": "09.14.06",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1140,
+				"nome": "Das licenças, afastamentos e concessões (Lei 8.112 - arts. 81 a 99)",
+				"hierarquia": "09.14.09",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1657,
+				"nome": "Decreto nº 7.203/2010 - Nepostismo",
+				"hierarquia": "09.16",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 5767,
+				"nome": "Direito de Petição (Servidores Estaduais e Municipais)",
+				"hierarquia": "09.15.08",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 5769,
+				"nome": "Direitos e Vantagens (Servidores Estaduais e Municipais)",
+				"hierarquia": "09.15.06",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 2640,
+				"nome": "Direitos sociais dos servidores públicos (art. 7º da CF)",
+				"hierarquia": "09.13",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 4288,
+				"nome": "Disposições Gerais (Servidores Estaduais e Municipais)",
+				"hierarquia": "09.15.01",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 3596,
+				"nome": "Disposições preliminares (Lei 8.112 - arts. 1º a 4º)",
+				"hierarquia": "09.14.01",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 4335,
+				"nome": "Do Tempo de Serviço (Lei 8.112 - arts. 100 a 103) ",
+				"hierarquia": "09.14.10",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 3597,
+				"nome": "Do direito de petição (Lei 8.112 - arts. 104 a 115)",
+				"hierarquia": "09.14.11",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1142,
+				"nome": "Do processo administrativo disciplinar (Lei 8.112 - arts. 143 a 182)",
+				"hierarquia": "09.14.13",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1141,
+				"nome": "Do regime disciplinar (Lei 8.112 - arts. 116 a 142)",
+				"hierarquia": "09.14.12",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 5771,
+				"nome": "Estabilidade e Estágio Probatório (Servidores Estaduais e Municipais)",
+				"hierarquia": "09.15.04",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1168,
+				"nome": "Estabilidade e estágio probatório",
+				"hierarquia": "09.05",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 541,
+				"nome": "Estatutos dos Servidores Estaduais e Municipais",
+				"hierarquia": "09.15",
+				"subTree": [
+					{
+						"id": 5764,
+						"nome": "Formas de Provimento (Servidores Estaduais e Municipais)",
+						"hierarquia": "09.15.02",
+						"indice": 1,
+						"contagem": 0
+					},
+					{
+						"id": 5768,
+						"nome": "Licenças, Afastamentos e Concessões (Servidores Estaduais e Municipais)",
+						"hierarquia": "09.15.07",
+						"indice": 1,
+						"contagem": 0
+					},
+					{
+						"id": 5765,
+						"nome": "Processo Disciplinar (Servidores Estaduais e Municipais)",
+						"hierarquia": "09.15.10",
+						"indice": 1,
+						"contagem": 0
+					},
+					{
+						"id": 5766,
+						"nome": "Regime Disciplinar (Servidores Estaduais e Municipais)",
+						"hierarquia": "09.15.09",
+						"indice": 1,
+						"contagem": 0
+					},
+					{
+						"id": 5772,
+						"nome": "Vacância (Servidores Estaduais e Municipais)",
+						"hierarquia": "09.15.03",
+						"indice": 1,
+						"contagem": 0
+					}
+				],
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1133,
+				"nome": "Formas de provimento (Lei 8.112 - arts. 5º a 32)",
+				"hierarquia": "09.14.02",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 540,
+				"nome": "Lei nº 8.112/1990 (lei federal)",
+				"hierarquia": "09.14",
+				"subTree": [
+					{
+						"id": 1134,
+						"nome": "Remoção, redistribuição e substituição (Lei 8.112 ? arts. 36 a 39)",
+						"hierarquia": "09.14.03",
+						"indice": 1,
+						"contagem": 0
+					},
+					{
+						"id": 1135,
+						"nome": "Vacância (Lei 8.112 - arts. 33 a 35)",
+						"hierarquia": "09.14.04",
+						"indice": 1,
+						"contagem": 0
+					},
+					{
+						"id": 1136,
+						"nome": "Vencimento, Remuneração e Subsídio",
+						"hierarquia": "09.14.05",
+						"indice": 1,
+						"contagem": 0
+					}
+				],
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 2222,
+				"nome": "Mandato Eletivo (art. 38 da CF)",
+				"hierarquia": "09.10",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 3778,
+				"nome": "Pensões",
+				"hierarquia": "09.09.02",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1172,
+				"nome": "Regime Previdenciário",
+				"hierarquia": "09.09",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1174,
+				"nome": "Teto remuneratório",
+				"hierarquia": "09.11",
+				"indice": 1,
+				"contagem": 0
+			}
+		],
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 513,
+		"nome": "Agências Reguladoras e Executivas",
+		"hierarquia": "04.01.05",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 1991,
+		"nome": "Alienação de bens móveis e imóveis (arts. 17 a 19, Lei 8.666)",
+		"hierarquia": "13.11",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 1158,
+		"nome": "Alteração unilateral (Cláusulas exorbitantes)",
+		"hierarquia": "18.09.02",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 1304,
+		"nome": "Anulação (contratos administrativos, Lei 8.666)",
+		"hierarquia": "18.12",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 2647,
+		"nome": "Aplicação de penalidades (Cláusulas Exorbitantes)",
+		"hierarquia": "18.09.06",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 500,
+		"nome": "Atos administrativos",
+		"hierarquia": "03",
+		"subTree": [
+			{
+				"id": 503,
+				"nome": "Atributos ou características dos atos administrativos",
+				"hierarquia": "03.03",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 504,
+				"nome": "Classificação dos atos administrativos",
+				"hierarquia": "03.04",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1965,
+				"nome": "Conceito de atos administrativos",
+				"hierarquia": "03.01",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 507,
+				"nome": "Convalidação dos atos administrativos",
+				"hierarquia": "03.07",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1185,
+				"nome": "Desfazimento do ato administrativo (Anulação, Revogação, Cassação, Caducidade, Contraposição)",
+				"hierarquia": "03.06",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 502,
+				"nome": "Elementos, requisitos e pressupostos (atos administrativos)",
+				"hierarquia": "03.02",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 505,
+				"nome": "Mérito Administrativo",
+				"hierarquia": "03.05",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1946,
+				"nome": "Teoria dos Motivos Determinantes",
+				"hierarquia": "03.08",
+				"indice": 1,
+				"contagem": 0
+			}
+		],
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 2645,
+		"nome": "Autorização, permissão e concessão (Serviços Públicos)",
+		"hierarquia": "11.01",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 3231,
+		"nome": "Ação Civil Pública (DAD)",
+		"hierarquia": "07.05.02",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 1179,
+		"nome": "Ação Popular (DAD)",
+		"hierarquia": "07.05.01",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 524,
+		"nome": "Ação Regressiva (responsabilidade civil do Estado)",
+		"hierarquia": "06.04",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 2650,
+		"nome": "Ações de ressarcimento a favor do Estado (art. 37, §5º, da CF)",
+		"hierarquia": "06.10",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 532,
+		"nome": "Bens Públicos (Direito Administrativo)",
+		"hierarquia": "08.01",
+		"subTree": [
+			{
+				"id": 3232,
+				"nome": "Bens Públicos em espécie (domínio terrestre, hídrico e aéreo)",
+				"hierarquia": "08.01.04",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 534,
+				"nome": "Características dos bens públicos",
+				"hierarquia": "08.01.03",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 533,
+				"nome": "Classificação dos bens públicos",
+				"hierarquia": "08.01.01",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 535,
+				"nome": "Formas de utilização de bens públicos",
+				"hierarquia": "08.01.05",
+				"indice": 1,
+				"contagem": 0
+			}
+		],
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 562,
+		"nome": "Características dos contratos administrativos",
+		"hierarquia": "18.03",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 4323,
+		"nome": "Classificação de Serviços Públicos",
+		"hierarquia": "11.07",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 3880,
+		"nome": "Classificação e espécies de contratos administrativos",
+		"hierarquia": "18.02",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 564,
+		"nome": "Cláusulas Exorbitantes",
+		"hierarquia": "18.09",
+		"subTree": [
+			{
+				"id": 1157,
+				"nome": "Conceito de Cláusulas Exorbitantes",
+				"hierarquia": "18.09.01",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 2651,
+				"nome": "Exigência de garantia (Cláusulas Exorbitantes)",
+				"hierarquia": "18.09.07",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1994,
+				"nome": "Não oposição à exceção do contrato não cumprido (Cláusulas exorbitantes)",
+				"hierarquia": "18.09.05",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 3242,
+				"nome": "Ocupação provisória (Cláusulas exorbitantes)",
+				"hierarquia": "18.09.08",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 2653,
+				"nome": "Poder de Fiscalização (Cláusulas exorbitantes)",
+				"hierarquia": "18.09.04",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 3241,
+				"nome": "Rescisão unilateral (Cláusulas exorbitantes)",
+				"hierarquia": "18.09.03",
+				"indice": 1,
+				"contagem": 0
+			}
+		],
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 3244,
+		"nome": "Cláusulas necessárias nos contratos administrativos (art. 55 da Lei 8.666/1993)",
+		"hierarquia": "18.04",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 1992,
+		"nome": "Conceito de contratos administrativos",
+		"hierarquia": "18.01",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 1307,
+		"nome": "Conceitos (Serviços Públicos, Lei 8.987)",
+		"hierarquia": "11.02.01",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 1150,
+		"nome": "Concessões (Serviços Públicos, Lei 8.987)",
+		"hierarquia": "11.02",
+		"subTree": [
+			{
+				"id": 1153,
+				"nome": "Deveres e direitos usuários, poder concedente e concessionária (Serviços Públicos, Lei 8.987)",
+				"hierarquia": "11.02.03",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1154,
+				"nome": "Formas de extinção (Serviços Públicos, Lei 8.987)",
+				"hierarquia": "11.02.04",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1155,
+				"nome": "Intervenção (Serviços Públicos, Lei 8.987)",
+				"hierarquia": "11.02.05",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1305,
+				"nome": "Serviço adequado - princípios (Serviços Públicos, Lei 8.987)",
+				"hierarquia": "11.02.02",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 2648,
+				"nome": "Subconcessão (Serviços Públicos, Lei 8.987)",
+				"hierarquia": "11.02.06",
+				"indice": 1,
+				"contagem": 0
+			}
+		],
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 3236,
+		"nome": "Concorrência, Tomada de Preços e Convite",
+		"hierarquia": "13.03.01",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 3227,
+		"nome": "Conselhos Profissionais",
+		"hierarquia": "04.01.03",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 1132,
+		"nome": "Consórcios Públicos (Serviços Públicos, Lei 11.107/2005)",
+		"hierarquia": "11.04",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 554,
+		"nome": "Contratação Direta (dispensa e inexigibilidade)",
+		"hierarquia": "13.04",
+		"subTree": [
+			{
+				"id": 3238,
+				"nome": "Licitação dispensada (art. 17 da Lei 8.666/1993)",
+				"hierarquia": "13.04.01",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 3239,
+				"nome": "Licitação dispensável (art. 24 da Lei 8.666/1993)",
+				"hierarquia": "13.04.02",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 3240,
+				"nome": "Licitação inexigível (art. 25 da Lei 8.666/1993)",
+				"hierarquia": "13.04.03",
+				"indice": 1,
+				"contagem": 0
+			}
+		],
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 559,
+		"nome": "Contratos Administrativos (Lei 8.666/1993)",
+		"hierarquia": "18",
+		"subTree": [
+			{
+				"id": 3243,
+				"nome": "Da formalização dos contratos (arts. 60 a 64 da Lei 8.666/1993)",
+				"hierarquia": "18.06",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1993,
+				"nome": "Duração dos contratos administrativos",
+				"hierarquia": "18.05",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 563,
+				"nome": "Execução dos contratos (arts. 66 a 76 da Lei 8.666/1993)",
+				"hierarquia": "18.07",
+				"subTree": [
+					{
+						"id": 1306,
+						"nome": "Recebimento do objeto (definitivo e provisório)",
+						"hierarquia": "18.07.01",
+						"indice": 1,
+						"contagem": 0
+					}
+				],
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1161,
+				"nome": "Inexecução e rescisão dos contratos administrativos (arts. 77 a 80 da Lei 8.666/1993)",
+				"hierarquia": "18.08",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1162,
+				"nome": "Sanções (contratos administrativos, Cláusulas exorbitantes)",
+				"hierarquia": "18.10",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1163,
+				"nome": "Teoria da Imprevisão (contratos administrativos)",
+				"hierarquia": "18.11",
+				"indice": 1,
+				"contagem": 0
+			}
+		],
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 529,
+		"nome": "Controle Administrativo (Direito Administrativo)",
+		"hierarquia": "07.02",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 531,
+		"nome": "Controle Jurisdicional",
+		"hierarquia": "07.05",
+		"subTree": [
+			{
+				"id": 3230,
+				"nome": "Habeas Corpus",
+				"hierarquia": "07.05.05",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 3163,
+				"nome": "Habeas Data",
+				"hierarquia": "07.05.04",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1181,
+				"nome": "Mandado de Segurança",
+				"hierarquia": "07.05.03",
+				"indice": 1,
+				"contagem": 0
+			}
+		],
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 1176,
+		"nome": "Controle Legislativo ou Parlamentar",
+		"hierarquia": "07.03",
+		"subTree": [
+			{
+				"id": 1456,
+				"nome": "Parlamentar direto (Controle Político)",
+				"hierarquia": "07.03.01",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1178,
+				"nome": "Parlamentar indireto (Tribunais de Contas, Controle técnico-financeiro)",
+				"hierarquia": "07.03.02",
+				"indice": 1,
+				"contagem": 0
+			}
+		],
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 3229,
+		"nome": "Controle Popular ou Social",
+		"hierarquia": "07.04",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 527,
+		"nome": "Controle da Administração",
+		"hierarquia": "07",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 547,
+		"nome": "Convênios Administrativos",
+		"hierarquia": "11.05",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 3775,
+		"nome": "Da declaração de bens (Lei 8.429 - art. 13)",
+		"hierarquia": "10.04",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 1149,
+		"nome": "Da prescrição (Lei 8.429, art. 23)",
+		"hierarquia": "10.07",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 1146,
+		"nome": "Das Penas (Lei 8.429 - art. 12)",
+		"hierarquia": "10.03",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 2642,
+		"nome": "Das disposições penais (Lei 8.429 - arts. 19 a 22)",
+		"hierarquia": "10.06",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 3902,
+		"nome": "Decreto nº 2.271/1997 - Contratação de Serviços",
+		"hierarquia": "17.01",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 3900,
+		"nome": "Decreto nº 2.745/1998 - Licitação Simplificada da PETROBRÁS",
+		"hierarquia": "17.02",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 4259,
+		"nome": "Decreto nº 7.746/2012 - Contratação Sustentável",
+		"hierarquia": "17.03",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 552,
+		"nome": "Definições, obras e serviços, compras (arts. 6 a 16, Lei 8.666)",
+		"hierarquia": "13.01",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 572,
+		"nome": "Desapropriação",
+		"hierarquia": "19.04",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 512,
+		"nome": "Desconcentração e Descentralização",
+		"hierarquia": "04.01.04",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 2641,
+		"nome": "Do processo administrativo e judicial (Lei 8.429 - arts. 14 a 18)",
+		"hierarquia": "10.05",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 536,
+		"nome": "Domínio Público",
+		"hierarquia": "08",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 1145,
+		"nome": "Dos atos de improbidade (Lei 8.429 - arts. 9º a 11)",
+		"hierarquia": "10.02",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 5809,
+		"nome": "Estatuto das Parcerias (Lei nº 13.019/2014)",
+		"hierarquia": "21",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 522,
+		"nome": "Evolução histórica (responsabilidade civil do Estado)",
+		"hierarquia": "06.01",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 3662,
+		"nome": "Excludentes da responsabilidade civil do Estado ",
+		"hierarquia": "06.11",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 555,
+		"nome": "Fases (Licitação)",
+		"hierarquia": "13.05",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 612,
+		"nome": "Improbidade Administrativa (Lei 8.429/1992)",
+		"hierarquia": "10",
+		"subTree": [
+			{
+				"id": 1917,
+				"nome": "Sujeitos: ativo e passivo (Lei 8.429 - arts. 1º a 8º)",
+				"hierarquia": "10.01",
+				"indice": 1,
+				"contagem": 0
+			}
+		],
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 3545,
+		"nome": "Impugnação ao edital pelos cidadãos e licitantes",
+		"hierarquia": "13.10",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 1918,
+		"nome": "Intervenção do Estado na Propriedade Privada",
+		"hierarquia": "19",
+		"subTree": [
+			{
+				"id": 2797,
+				"nome": "Limitações Administrativas (intervenção da propriedade)",
+				"hierarquia": "19.01",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 3799,
+				"nome": "Ocupação provisória",
+				"hierarquia": "19.06",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 690,
+				"nome": "Requisição da Propriedade Privada",
+				"hierarquia": "19.03",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 570,
+				"nome": "Servidões Administrativas",
+				"hierarquia": "19.02",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 573,
+				"nome": "Tombamento",
+				"hierarquia": "19.05",
+				"indice": 1,
+				"contagem": 0
+			}
+		],
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 3901,
+		"nome": "Legislação Estadual e Municipal sobre Licitações",
+		"hierarquia": "17.06",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 4699,
+		"nome": "Legislação Estadual sobre Serviço Público",
+		"hierarquia": "11.08",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 1130,
+		"nome": "Lei nº 10.520/2002 - Modalidade de licitação Pregão",
+		"hierarquia": "16",
+		"subTree": [
+			{
+				"id": 1156,
+				"nome": "Pregão eletrônico",
+				"hierarquia": "16.01",
+				"indice": 1,
+				"contagem": 0
+			}
+		],
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 4224,
+		"nome": "Lei nº 12.232/2010 - Licitação para Serviços de Publicidade",
+		"hierarquia": "17.04",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 4552,
+		"nome": "Lei nº 12.527/2011 - Lei de Acesso à Informação",
+		"hierarquia": "02.02",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 337,
+		"nome": "Lei nº 12.846/2013 - Lei Anticorrupção",
+		"hierarquia": "06.12",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 3237,
+		"nome": "Leilão e Concurso",
+		"hierarquia": "13.03.02",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 551,
+		"nome": "Licitações (Lei 8.666/1993)",
+		"hierarquia": "13",
+		"subTree": [
+			{
+				"id": 553,
+				"nome": "Modalidades na Lei 8.666/1993",
+				"hierarquia": "13.03",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1302,
+				"nome": "Princípios (Licitação)",
+				"hierarquia": "13.02",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1924,
+				"nome": "Recursos Administrativos e Representação (Licitação)",
+				"hierarquia": "13.07",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1923,
+				"nome": "Revogação e anulação (Licitações, Lei 8.666)",
+				"hierarquia": "13.09",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 2652,
+				"nome": "Sistema de Registro de Preços (SRP)",
+				"hierarquia": "13.12",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1995,
+				"nome": "Tipos de Licitação (critérios de julgamento)",
+				"hierarquia": "13.06",
+				"indice": 1,
+				"contagem": 0
+			}
+		],
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 5781,
+		"nome": "Organização Administrativa",
+		"hierarquia": "04",
+		"subTree": [
+			{
+				"id": 509,
+				"nome": "Organização Administrativa da União",
+				"hierarquia": "04.01",
+				"subTree": [
+					{
+						"id": 614,
+						"nome": "Terceiro Setor (OSs, OSCIPs, Sistema S e Fundações de Apoio)",
+						"hierarquia": "04.01.06",
+						"indice": 1,
+						"contagem": 0
+					}
+				],
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 5780,
+				"nome": "Organização Administrativa dos Estados, Municípios e DF",
+				"hierarquia": "04.02",
+				"indice": 1,
+				"contagem": 0
+			}
+		],
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 497,
+		"nome": "Origem, Conceito e Fontes do Direito Administrativo",
+		"hierarquia": "01",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 3600,
+		"nome": "Outros Normativos Sobre Licitações",
+		"hierarquia": "17",
+		"subTree": [
+			{
+				"id": 5774,
+				"nome": "SICAF",
+				"hierarquia": "17.05",
+				"indice": 1,
+				"contagem": 0
+			}
+		],
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 1131,
+		"nome": "Parceria Público-Privada (PPP) (Lei 11.079/2004)",
+		"hierarquia": "11.03",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 1947,
+		"nome": "Poder Disciplinar",
+		"hierarquia": "05.02",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 516,
+		"nome": "Poder Hierárquico",
+		"hierarquia": "05.01",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 518,
+		"nome": "Poder Regulamentar",
+		"hierarquia": "05.03",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 1915,
+		"nome": "Poder Vinculado e Discricionário",
+		"hierarquia": "05.05",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 519,
+		"nome": "Poder de Polícia",
+		"hierarquia": "05.04",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 515,
+		"nome": "Poderes da Administração",
+		"hierarquia": "05",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 2655,
+		"nome": "Prescrição e Coisa Julgada Administrativa",
+		"hierarquia": "20",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 499,
+		"nome": "Princípios da Administração Pública",
+		"hierarquia": "02.01",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 548,
+		"nome": "Processo Administrativo",
+		"hierarquia": "12",
+		"subTree": [
+			{
+				"id": 550,
+				"nome": "Processo Administrativo (leis estaduais e municipais)",
+				"hierarquia": "12.02",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 549,
+				"nome": "Processo Administrativo Federal (Lei 9.784/1999)",
+				"hierarquia": "12.01",
+				"indice": 1,
+				"contagem": 0
+			}
+		],
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 4517,
+		"nome": "Regime Diferenciado de Contratações Públicas (RDC) (Lei 12.642/2011)",
+		"hierarquia": "15",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 498,
+		"nome": "Regime Jurídico Administrativo",
+		"hierarquia": "02",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 1966,
+		"nome": "Regras de licitação para ME e EPP (Lei Complementar 123/2006)",
+		"hierarquia": "14",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 1996,
+		"nome": "Repartição de competências (serviços públicos)",
+		"hierarquia": "11.06",
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 521,
+		"nome": "Responsabilidade Civil do Estado",
+		"hierarquia": "06",
+		"subTree": [
+			{
+				"id": 2639,
+				"nome": "Responsabilidade civil dos agentes públicos",
+				"hierarquia": "06.06",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1184,
+				"nome": "Responsabilidade das prestadoras de serviços públicos",
+				"hierarquia": "06.09",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 2654,
+				"nome": "Responsabilidade do Estado por atos legislativos e judiciais",
+				"hierarquia": "06.05",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 3844,
+				"nome": "Responsabilidade por atos omissivos",
+				"hierarquia": "06.07",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1183,
+				"nome": "Responsabilidade por danos decorrentes de obras públicas",
+				"hierarquia": "06.08",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 1916,
+				"nome": "Risco Administrativo (teoria da responsabilidade objetiva do Estado)",
+				"hierarquia": "06.02",
+				"indice": 1,
+				"contagem": 0
+			},
+			{
+				"id": 3228,
+				"nome": "Teorias civilista, da culpa administrativa ou anônima, e do risco integral",
+				"hierarquia": "06.03",
+				"indice": 1,
+				"contagem": 0
+			}
+		],
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 543,
+		"nome": "Serviços Públicos",
+		"hierarquia": "11",
+		"indice": 1,
+		"contagem": 0
+	}
+]

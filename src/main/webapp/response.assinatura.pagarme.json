@@ -1,0 +1,59 @@
+{
+	"customer": {
+		"document_number": "01434871169",
+		"document_type": "cpf",
+		"name": "Jo?o Paulo",
+		"email": "jaoleite@gmail.com",
+		"id": 272085,
+		"date_created": "2017-09-12T17:55:28.720-0300"
+	},
+	"paymentMethod": "credit_card",
+	"currentPeriodStart": "2017-10-13T11:54:12.005-0300",
+	"currentPeriodEnd": "2017-10-14T11:54:12.005-0300",
+	"plan": {
+		"amount": 2990,
+		"days": 1,
+		"name": "Plano Padrão - teste 3",
+		"trialDays": 0,
+		"paymentMethods": [
+			"boleto",
+			"credit_card"
+		],
+		"installments": 1,
+		"id": "210439",
+		"date_created": "2017-09-19T23:59:34.321-0300"
+	},
+	"currentTransaction": {
+		"subscription_id": 239133,
+		"amount": 2990,
+		"refunded_amount": 0,
+		"authorized_amount": 2990,
+		"paid_amount": 2990,
+		"installments": 1,
+		"cost": 120,
+		"acquirer_response_code": "0000",
+		"authorization_code": "475000",
+		"tid": "2010000",
+		"nsu": "2010000",
+		"referer": "api_key",
+		"ip": "10.2.10.207",
+		"acquirer_name": "pagarme",
+		"payment_method": "credit_card",
+		"capture_method": "ecommerce",
+		"status": "paid",
+		"status_reason": "acquirer",
+		"date_updated": "2017-09-12T17:55:29.144-0300",
+		"metadata": {
+			
+		},
+		"antifraud_metadata": {
+			
+		},
+		"id": 2010000,
+		"date_created": "2017-09-12T17:55:28.748-0300"
+	},
+	"charges": 0,
+	"status": "paid",
+	"id": "239133",
+	"date_created": "2017-09-12T17:55:29.135-0300"
+}

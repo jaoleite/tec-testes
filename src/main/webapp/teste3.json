@@ -1,0 +1,44 @@
+{
+	"amount": 2990,
+	"refunded_amount": 0,
+	"authorized_amount": 2990,
+	"paid_amount": 0,
+	"installments": 1,
+	"cost": 0,
+	"tid": "22981097",
+	"nsu": "22981097",
+	"postback_url": "http://requestb.in/pkt7pgpk",
+	"boleto_url": "https://api.pagar.me/1/boletos/live_cj8649sor003vtr3esczsx5tb",
+	"boleto_barcode": "23791.22928 50000.859939 94000.046907 5 73040000002990",
+	"referer": "api_key",
+	"ip": "189.107.201.190",
+	"acquirer_name": "pagarme",
+	"payment_method": "boleto",
+	"capture_method": "ecommerce",
+	"status": "waiting_payment",
+	"status_reason": "acquirer",
+	"date_updated": "2017-09-29T13:42:29.281-0300",
+	"phone": {
+		"ddi": "55",
+		"id": 6723918
+	},
+	"address": {
+		"id": 6612528
+	},
+	"customer": {
+		"document_number": "78250604075",
+		"document_type": "cpf",
+		"name": "Joao Paulo Leite",
+		"email": "jaoleite@yahoo.com.br",
+		"id": 8975008,
+		"date_created": "2017-09-29T13:42:28.931-0300"
+	},
+	"metadata": {
+		
+	},
+	"antifraud_metadata": {
+		
+	},
+	"id": 22981097,
+	"date_created": "2017-09-29T13:42:28.988-0300"
+}

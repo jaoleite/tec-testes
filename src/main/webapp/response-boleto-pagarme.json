@@ -1,0 +1,36 @@
+{
+	"amount": 2990,
+	"refunded_amount": 0,
+	"authorized_amount": 0,
+	"paid_amount": 0,
+	"installments": 1,
+	"cost": 0,
+	"postback_url": "http://requestb.in/pkt7pgpk",
+	"referer": "api_key",
+	"ip": "189.107.201.190",
+	"payment_method": "boleto",
+	"status": "processing",
+	"status_reason": "acquirer",
+	"date_updated": "2017-09-29T13:42:28.988-0300",
+	"customer": {
+		"document_number": "78250604075",
+		"name": "Joao Paulo Leite",
+		"email": "jaoleite@yahoo.com.br",
+		"phone": {
+			
+		},
+		"address": {
+			
+		},
+		"addresses": [],
+		"phones": []
+	},
+	"metadata": {
+		
+	},
+	"antifraud_metadata": {
+		
+	},
+	"id": 22981097,
+	"date_created": "2017-09-29T13:42:28.988-0300"
+}

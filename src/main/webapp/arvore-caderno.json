@@ -1,0 +1,2709 @@
+[
+	{
+		"id": 69,
+		"nome": "AFO, Direito Financeiro e Contabilidade Pública",
+		"tipo": "Materia",
+		"subTree": [
+			{
+				"id": 1483,
+				"nome": "Princípios Orçamentários",
+				"tipo": "Assunto",
+				"hierarquia": "07",
+				"descendentes": "1483;",
+				"subTree": [],
+				"indice": 1,
+				"contagem": 1,
+				"title": "Princípios Orçamentários"
+			},
+			{
+				"id": 1486,
+				"nome": "Receita pública (AFO e CPU)",
+				"tipo": "Assunto",
+				"hierarquia": "09",
+				"descendentes": "1486;1524;1488;1502;1487;1492;1489;1466;4207;4208;1490;1491;1503;",
+				"subTree": [
+					{
+						"id": 1502,
+						"nome": "Classificação da Receita Orçamentária",
+						"tipo": "Assunto",
+						"hierarquia": "09.03",
+						"descendentes": "1502;1487;1492;1489;1466;4207;4208;1490;",
+						"pai": {
+							"id": 1486,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [
+							{
+								"id": 1466,
+								"nome": "Classificação da Receita quanto à Afetação Patrimonial",
+								"tipo": "Assunto",
+								"hierarquia": "09.03.04",
+								"descendentes": "1466;",
+								"pai": {
+									"id": 1502,
+									"tipo": "Assunto",
+									"indice": 0,
+									"contagem": 0
+								},
+								"subTree": [],
+								"indice": 2,
+								"contagem": 1,
+								"title": "Classificação da Receita quanto à Afetação Patrimonial"
+							}
+						],
+						"indice": 2,
+						"contagem": 0,
+						"title": "Classificação da Receita Orçamentária"
+					}
+				],
+				"indice": 2,
+				"contagem": 0,
+				"title": "Receita pública (AFO e CPU)"
+			},
+			{
+				"id": 1508,
+				"nome": "SIAFI, SIOP/SIDOR e Conta Única",
+				"tipo": "Assunto",
+				"hierarquia": "12",
+				"descendentes": "1508;1509;1510;1511;",
+				"subTree": [
+					{
+						"id": 1509,
+						"nome": "SIAFI",
+						"tipo": "Assunto",
+						"hierarquia": "12.01",
+						"descendentes": "1509;",
+						"pai": {
+							"id": 1508,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 3,
+						"contagem": 1,
+						"title": "SIAFI"
+					}
+				],
+				"indice": 3,
+				"contagem": 0,
+				"title": "SIAFI, SIOP/SIDOR e Conta Única"
+			},
+			{
+				"id": 4205,
+				"nome": "Regime de Adiantamento",
+				"tipo": "Assunto",
+				"hierarquia": "13",
+				"descendentes": "4205;1515;1506;",
+				"subTree": [
+					{
+						"id": 1515,
+						"nome": "Suprimento de Fundos",
+						"tipo": "Assunto",
+						"hierarquia": "13.01",
+						"descendentes": "1515;",
+						"pai": {
+							"id": 4205,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 4,
+						"contagem": 1,
+						"title": "Suprimento de Fundos"
+					}
+				],
+				"indice": 4,
+				"contagem": 0,
+				"title": "Regime de Adiantamento"
+			},
+			{
+				"id": 1512,
+				"nome": "Restos a Pagar e Despesa de Exercícios Anteriores",
+				"tipo": "Assunto",
+				"hierarquia": "14",
+				"descendentes": "1512;1513;1514;",
+				"subTree": [
+					{
+						"id": 1513,
+						"nome": "Restos a Pagar (RAP)",
+						"tipo": "Assunto",
+						"hierarquia": "14.01",
+						"descendentes": "1513;",
+						"pai": {
+							"id": 1512,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 5,
+						"contagem": 1,
+						"title": "Restos a Pagar (RAP)"
+					}
+				],
+				"indice": 5,
+				"contagem": 0,
+				"title": "Restos a Pagar e Despesa de Exercícios Anteriores"
+			},
+			{
+				"id": 1521,
+				"nome": "Lei de Responsabilidade Fiscal - LRF (Lei Complementar nº 101/2000)",
+				"tipo": "Assunto",
+				"hierarquia": "17",
+				"descendentes": "1521;1522;1467;1525;1471;1526;1527;1535;5361;1530;1532;1533;1534;1528;1529;5363;4202;",
+				"subTree": [
+					{
+						"id": 1529,
+						"nome": "Transparência, Controle e Fiscalização na LRF (arts. 48 a 59)",
+						"tipo": "Assunto",
+						"hierarquia": "17.09",
+						"descendentes": "1529;",
+						"pai": {
+							"id": 1521,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 6,
+						"contagem": 1,
+						"title": "Transparência, Controle e Fiscalização na LRF (arts. 48 a 59)"
+					}
+				],
+				"indice": 6,
+				"contagem": 0,
+				"title": "Lei de Responsabilidade Fiscal - LRF (Lei Complementar nº 101/2000)"
+			},
+			{
+				"id": 1505,
+				"nome": "Regimes Orçamentário e Patrimonial e Exercício Financeiro",
+				"tipo": "Assunto",
+				"hierarquia": "18",
+				"descendentes": "1505;",
+				"subTree": [],
+				"indice": 7,
+				"contagem": 1,
+				"title": "Regimes Orçamentário e Patrimonial e Exercício Financeiro"
+			},
+			{
+				"id": 4504,
+				"nome": "Avaliação e Mensuração dos Elementos Patrimoniais (NBC T 16.10, MCASP, Art. 106 da Lei nº 4.320)",
+				"tipo": "Assunto",
+				"hierarquia": "24",
+				"descendentes": "4504;",
+				"subTree": [],
+				"indice": 8,
+				"contagem": 1,
+				"title": "Avaliação e Mensuração dos Elementos Patrimoniais (NBC T 16.10, MCASP, Art. 106 da Lei nº 4.320)"
+			}
+		],
+		"indice": 1,
+		"contagem": 0
+	},
+	{
+		"id": 14,
+		"nome": "Administração Geral",
+		"tipo": "Materia",
+		"subTree": [
+			{
+				"id": 1888,
+				"nome": "Processo de Planejamento",
+				"tipo": "Assunto",
+				"hierarquia": "04",
+				"descendentes": "1888;2318;4639;1974;2263;2317;2043;2038;3384;2046;3539;2074;2061;2319;5632;5633;3020;",
+				"subTree": [
+					{
+						"id": 4639,
+						"nome": "Planejamento Estratégico",
+						"tipo": "Assunto",
+						"hierarquia": "04.02",
+						"descendentes": "4639;1974;2263;2317;2043;2038;3384;2046;3539;2074;2061;2319;",
+						"pai": {
+							"id": 1888,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [
+							{
+								"id": 1974,
+								"nome": "Introdução ao Planejamento Estratégico",
+								"tipo": "Assunto",
+								"hierarquia": "04.02.01",
+								"descendentes": "1974;",
+								"pai": {
+									"id": 4639,
+									"tipo": "Assunto",
+									"indice": 0,
+									"contagem": 0
+								},
+								"subTree": [],
+								"indice": 9,
+								"contagem": 1,
+								"title": "Introdução ao Planejamento Estratégico"
+							}
+						],
+						"indice": 9,
+						"contagem": 0,
+						"title": "Planejamento Estratégico"
+					}
+				],
+				"indice": 9,
+				"contagem": 0,
+				"title": "Processo de Planejamento"
+			}
+		],
+		"indice": 9,
+		"contagem": 0
+	},
+	{
+		"id": 13,
+		"nome": "Administração Pública",
+		"tipo": "Materia",
+		"subTree": [
+			{
+				"id": 2147,
+				"nome": "Diferenças e Convergências entre a Gestão Pública e a Gestão Privada",
+				"tipo": "Assunto",
+				"hierarquia": "01",
+				"descendentes": "2147;",
+				"subTree": [],
+				"indice": 10,
+				"contagem": 1,
+				"title": "Diferenças e Convergências entre a Gestão Pública e a Gestão Privada"
+			},
+			{
+				"id": 2152,
+				"nome": "Organização do Estado e da Administração Pública",
+				"tipo": "Assunto",
+				"hierarquia": "05",
+				"descendentes": "2152;",
+				"subTree": [],
+				"indice": 11,
+				"contagem": 1,
+				"title": "Organização do Estado e da Administração Pública"
+			},
+			{
+				"id": 2153,
+				"nome": "Reformas Administrativas (Administração Pública)",
+				"tipo": "Assunto",
+				"hierarquia": "06",
+				"descendentes": "2153;",
+				"subTree": [],
+				"indice": 12,
+				"contagem": 1,
+				"title": "Reformas Administrativas (Administração Pública)"
+			}
+		],
+		"indice": 10,
+		"contagem": 0
+	},
+	{
+		"id": 58,
+		"nome": "Análise das Demonstrações Contábeis",
+		"tipo": "Materia",
+		"subTree": [
+			{
+				"id": 1792,
+				"nome": "Índices de liquidez",
+				"tipo": "Assunto",
+				"hierarquia": "02",
+				"descendentes": "1792;",
+				"subTree": [],
+				"indice": 13,
+				"contagem": 1,
+				"title": "Índices de liquidez"
+			},
+			{
+				"id": 1793,
+				"nome": "Índices de endividamento",
+				"tipo": "Assunto",
+				"hierarquia": "03",
+				"descendentes": "1793;",
+				"subTree": [],
+				"indice": 14,
+				"contagem": 1,
+				"title": "Índices de endividamento"
+			},
+			{
+				"id": 1795,
+				"nome": "Índices de Rentabilidade",
+				"tipo": "Assunto",
+				"hierarquia": "05",
+				"descendentes": "1795;",
+				"subTree": [],
+				"indice": 15,
+				"contagem": 1,
+				"title": "Índices de Rentabilidade"
+			},
+			{
+				"id": 1797,
+				"nome": "Análise vertical e horizontal das demonstrações contábeis",
+				"tipo": "Assunto",
+				"hierarquia": "09",
+				"descendentes": "1797;",
+				"subTree": [],
+				"indice": 16,
+				"contagem": 2,
+				"title": "Análise vertical e horizontal das demonstrações contábeis"
+			}
+		],
+		"indice": 13,
+		"contagem": 0
+	},
+	{
+		"id": 17,
+		"nome": "Atualidades e Conhecimentos Gerais",
+		"tipo": "Materia",
+		"subTree": [
+			{
+				"nome": "Sem Classificação",
+				"tipo": "Assunto",
+				"indice": 18,
+				"contagem": 10,
+				"title": "Sem Classificação"
+			}
+		],
+		"indice": 18,
+		"contagem": 0
+	},
+	{
+		"id": 29,
+		"nome": "Auditoria",
+		"tipo": "Materia",
+		"subTree": [
+			{
+				"id": 2731,
+				"nome": "Auditoria Independente",
+				"tipo": "Assunto",
+				"hierarquia": "01",
+				"descendentes": "2731;2732;5786;5787;5788;5789;5790;5791;2733;2734;2735;2736;2737;2738;2739;2740;2741;2742;2743;2744;2745;2746;2750;2751;3845;",
+				"subTree": [
+					{
+						"id": 2734,
+						"nome": "Materialidade, Relevância e Risco em Auditoria",
+						"tipo": "Assunto",
+						"hierarquia": "01.03",
+						"descendentes": "2734;",
+						"pai": {
+							"id": 2731,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 28,
+						"contagem": 1,
+						"title": "Materialidade, Relevância e Risco em Auditoria"
+					},
+					{
+						"id": 2736,
+						"nome": "Testes e Procedimentos em Auditoria",
+						"tipo": "Assunto",
+						"hierarquia": "01.05",
+						"descendentes": "2736;",
+						"pai": {
+							"id": 2731,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 29,
+						"contagem": 1,
+						"title": "Testes e Procedimentos em Auditoria"
+					},
+					{
+						"id": 2745,
+						"nome": "Documentação de Auditoria/Papéis de Trabalho",
+						"tipo": "Assunto",
+						"hierarquia": "01.14",
+						"descendentes": "2745;",
+						"pai": {
+							"id": 2731,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 30,
+						"contagem": 1,
+						"title": "Documentação de Auditoria/Papéis de Trabalho"
+					},
+					{
+						"id": 2746,
+						"nome": "Opinião do auditor independente/Relatórios e Pareceres de Auditoria",
+						"tipo": "Assunto",
+						"hierarquia": "01.15",
+						"descendentes": "2746;",
+						"pai": {
+							"id": 2731,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 31,
+						"contagem": 1,
+						"title": "Opinião do auditor independente/Relatórios e Pareceres de Auditoria"
+					}
+				],
+				"indice": 28,
+				"contagem": 0,
+				"title": "Auditoria Independente"
+			},
+			{
+				"id": 2752,
+				"nome": "Auditoria Interna (controle interno)",
+				"tipo": "Assunto",
+				"hierarquia": "02",
+				"descendentes": "2752;2753;3846;3847;3848;2755;",
+				"subTree": [
+					{
+						"id": 3848,
+						"nome": "Normas Internacionais de Auditoria Interna (IIA)",
+						"tipo": "Assunto",
+						"hierarquia": "02.04",
+						"descendentes": "3848;",
+						"pai": {
+							"id": 2752,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 32,
+						"contagem": 1,
+						"title": "Normas Internacionais de Auditoria Interna (IIA)"
+					}
+				],
+				"indice": 32,
+				"contagem": 0,
+				"title": "Auditoria Interna (controle interno)"
+			},
+			{
+				"id": 2761,
+				"nome": "Auditoria Governamental",
+				"tipo": "Assunto",
+				"hierarquia": "03",
+				"descendentes": "2761;2762;2763;2764;2765;3849;3850;2766;2767;3851;3852;3853;2768;5720;",
+				"subTree": [
+					{
+						"id": 2767,
+						"nome": "Auditoria do TCU",
+						"tipo": "Assunto",
+						"hierarquia": "03.08",
+						"descendentes": "2767;3851;3852;3853;",
+						"pai": {
+							"id": 2761,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [
+							{
+								"id": 3851,
+								"nome": "Auditoria de regularidade e auditoria operacional",
+								"tipo": "Assunto",
+								"hierarquia": "03.08.01",
+								"descendentes": "3851;",
+								"pai": {
+									"id": 2767,
+									"tipo": "Assunto",
+									"indice": 0,
+									"contagem": 0
+								},
+								"subTree": [],
+								"indice": 33,
+								"contagem": 2,
+								"title": "Auditoria de regularidade e auditoria operacional"
+							},
+							{
+								"id": 3853,
+								"nome": "Técnicas, Procedimentos e Normas de Auditoria do TCU",
+								"tipo": "Assunto",
+								"hierarquia": "03.08.03",
+								"descendentes": "3853;",
+								"pai": {
+									"id": 2767,
+									"tipo": "Assunto",
+									"indice": 0,
+									"contagem": 0
+								},
+								"subTree": [],
+								"indice": 35,
+								"contagem": 5,
+								"title": "Técnicas, Procedimentos e Normas de Auditoria do TCU"
+							}
+						],
+						"indice": 33,
+						"contagem": 0,
+						"title": "Auditoria do TCU"
+					}
+				],
+				"indice": 33,
+				"contagem": 0,
+				"title": "Auditoria Governamental"
+			}
+		],
+		"indice": 28,
+		"contagem": 0
+	},
+	{
+		"id": 21,
+		"nome": "Contabilidade Geral",
+		"tipo": "Materia",
+		"subTree": [
+			{
+				"id": 3855,
+				"nome": "Estrutura Conceitual Básica da Contabilidade (CPC 00)",
+				"tipo": "Assunto",
+				"hierarquia": "02",
+				"descendentes": "3855;324;325;1832;2364;3546;1819;4631;",
+				"subTree": [],
+				"indice": 40,
+				"contagem": 2,
+				"title": "Estrutura Conceitual Básica da Contabilidade (CPC 00)"
+			},
+			{
+				"id": 4700,
+				"nome": "Ativo",
+				"tipo": "Assunto",
+				"hierarquia": "08",
+				"descendentes": "4700;4701;4702;4703;4704;2276;4705;4706;4707;4708;4709;4710;4711;674;4713;4714;4715;5627;4716;1006;3858;3861;",
+				"subTree": [
+					{
+						"id": 2276,
+						"nome": "Estoques: mensuração, reconhecimento como despesa e divulgação (CPC 16)",
+						"tipo": "Assunto",
+						"hierarquia": "08.03",
+						"descendentes": "2276;",
+						"pai": {
+							"id": 4700,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 42,
+						"contagem": 1,
+						"title": "Estoques: mensuração, reconhecimento como despesa e divulgação (CPC 16)"
+					},
+					{
+						"id": 4709,
+						"nome": "Investimentos",
+						"tipo": "Assunto",
+						"hierarquia": "08.08",
+						"descendentes": "4709;4710;4711;674;",
+						"pai": {
+							"id": 4700,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 43,
+						"contagem": 1,
+						"title": "Investimentos"
+					},
+					{
+						"id": 3858,
+						"nome": "Redução ao valor recuperável de ativos",
+						"tipo": "Assunto",
+						"hierarquia": "08.15",
+						"descendentes": "3858;",
+						"pai": {
+							"id": 4700,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 44,
+						"contagem": 1,
+						"title": "Redução ao valor recuperável de ativos"
+					}
+				],
+				"indice": 42,
+				"contagem": 0,
+				"title": "Ativo"
+			},
+			{
+				"id": 995,
+				"nome": "Demonstrações Contábeis",
+				"tipo": "Assunto",
+				"hierarquia": "11",
+				"descendentes": "995;3856;996;997;998;2251;4460;4739;999;1785;1001;1002;1003;1004;3857;2656;",
+				"subTree": [
+					{
+						"id": 996,
+						"nome": "Balanço Patrimonial",
+						"tipo": "Assunto",
+						"hierarquia": "11.02",
+						"descendentes": "996;",
+						"pai": {
+							"id": 995,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 45,
+						"contagem": 1,
+						"title": "Balanço Patrimonial"
+					},
+					{
+						"id": 998,
+						"nome": "Demonstração do resultado do exercício (DRE)",
+						"tipo": "Assunto",
+						"hierarquia": "11.04",
+						"descendentes": "998;2251;4460;4739;",
+						"pai": {
+							"id": 995,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [
+							{
+								"id": 4739,
+								"nome": "Participações estatutárias",
+								"tipo": "Assunto",
+								"hierarquia": "11.04.03",
+								"descendentes": "4739;",
+								"pai": {
+									"id": 998,
+									"tipo": "Assunto",
+									"indice": 0,
+									"contagem": 0
+								},
+								"subTree": [],
+								"indice": 46,
+								"contagem": 1,
+								"title": "Participações estatutárias"
+							}
+						],
+						"indice": 46,
+						"contagem": 0,
+						"title": "Demonstração do resultado do exercício (DRE)"
+					}
+				],
+				"indice": 45,
+				"contagem": 0,
+				"title": "Demonstrações Contábeis"
+			}
+		],
+		"indice": 40,
+		"contagem": 0
+	},
+	{
+		"id": 37,
+		"nome": "Controle Externo",
+		"tipo": "Materia",
+		"subTree": [
+			{
+				"id": 1738,
+				"nome": "Normas infraconstitucionais (atribuições dos Tribunais de Contas)",
+				"tipo": "Assunto",
+				"hierarquia": "05",
+				"descendentes": "1738;1553;2438;1737;1555;1739;",
+				"subTree": [
+					{
+						"id": 1553,
+						"nome": "Leis Orgânicas e Regimentos Internos",
+						"tipo": "Assunto",
+						"hierarquia": "05.01",
+						"descendentes": "1553;2438;",
+						"pai": {
+							"id": 1738,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 47,
+						"contagem": 2,
+						"title": "Leis Orgânicas e Regimentos Internos"
+					}
+				],
+				"indice": 47,
+				"contagem": 0,
+				"title": "Normas infraconstitucionais (atribuições dos Tribunais de Contas)"
+			},
+			{
+				"id": 1563,
+				"nome": "Tomadas e Prestações de Contas",
+				"tipo": "Assunto",
+				"hierarquia": "10",
+				"descendentes": "1563;1564;1565;",
+				"subTree": [],
+				"indice": 49,
+				"contagem": 1,
+				"title": "Tomadas e Prestações de Contas"
+			},
+			{
+				"id": 1569,
+				"nome": "Fiscalização de atos e contratos (licitações, convênios, consórcios, obras e concessões)",
+				"tipo": "Assunto",
+				"hierarquia": "14",
+				"descendentes": "1569;",
+				"subTree": [],
+				"indice": 50,
+				"contagem": 1,
+				"title": "Fiscalização de atos e contratos (licitações, convênios, consórcios, obras e concessões)"
+			},
+			{
+				"id": 1571,
+				"nome": "Direito de Defesa",
+				"tipo": "Assunto",
+				"hierarquia": "16",
+				"descendentes": "1571;1572;1573;1574;",
+				"subTree": [
+					{
+						"id": 1574,
+						"nome": "Modalidades de recursos (reexame, revisão, reconsideração, embargos de declaração e agravo)",
+						"tipo": "Assunto",
+						"hierarquia": "16.03",
+						"descendentes": "1574;",
+						"pai": {
+							"id": 1571,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 51,
+						"contagem": 1,
+						"title": "Modalidades de recursos (reexame, revisão, reconsideração, embargos de declaração e agravo)"
+					}
+				],
+				"indice": 51,
+				"contagem": 0,
+				"title": "Direito de Defesa"
+			}
+		],
+		"indice": 47,
+		"contagem": 0
+	},
+	{
+		"id": 1,
+		"nome": "Direito Administrativo",
+		"tipo": "Materia",
+		"subTree": [
+			{
+				"id": 497,
+				"nome": "Origem, Conceito e Fontes do Direito Administrativo",
+				"tipo": "Assunto",
+				"hierarquia": "01",
+				"descendentes": "497;",
+				"subTree": [],
+				"indice": 52,
+				"contagem": 1,
+				"title": "Origem, Conceito e Fontes do Direito Administrativo"
+			},
+			{
+				"id": 498,
+				"nome": "Regime Jurídico Administrativo",
+				"tipo": "Assunto",
+				"hierarquia": "02",
+				"descendentes": "498;499;4552;5792;",
+				"subTree": [
+					{
+						"id": 499,
+						"nome": "Princípios da Administração Pública",
+						"tipo": "Assunto",
+						"hierarquia": "02.01",
+						"descendentes": "499;",
+						"pai": {
+							"id": 498,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 53,
+						"contagem": 1,
+						"title": "Princípios da Administração Pública"
+					}
+				],
+				"indice": 53,
+				"contagem": 0,
+				"title": "Regime Jurídico Administrativo"
+			},
+			{
+				"id": 5781,
+				"nome": "Organização Administrativa",
+				"tipo": "Assunto",
+				"hierarquia": "04",
+				"descendentes": "5781;509;510;511;3227;512;513;614;5780;",
+				"subTree": [
+					{
+						"id": 509,
+						"nome": "Organização Administrativa da União",
+						"tipo": "Assunto",
+						"hierarquia": "04.01",
+						"descendentes": "509;510;511;3227;512;513;614;",
+						"pai": {
+							"id": 5781,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [
+							{
+								"id": 511,
+								"nome": "Administração Indireta",
+								"tipo": "Assunto",
+								"hierarquia": "04.01.02",
+								"descendentes": "511;",
+								"pai": {
+									"id": 509,
+									"tipo": "Assunto",
+									"indice": 0,
+									"contagem": 0
+								},
+								"subTree": [],
+								"indice": 54,
+								"contagem": 1,
+								"title": "Administração Indireta"
+							}
+						],
+						"indice": 54,
+						"contagem": 0,
+						"title": "Organização Administrativa da União"
+					}
+				],
+				"indice": 54,
+				"contagem": 0,
+				"title": "Organização Administrativa"
+			},
+			{
+				"id": 521,
+				"nome": "Responsabilidade Civil do Estado",
+				"tipo": "Assunto",
+				"hierarquia": "06",
+				"descendentes": "521;522;1916;3228;524;2654;2639;3844;1183;1184;2650;3662;337;",
+				"subTree": [
+					{
+						"id": 1184,
+						"nome": "Responsabilidade das prestadoras de serviços públicos",
+						"tipo": "Assunto",
+						"hierarquia": "06.09",
+						"descendentes": "1184;",
+						"pai": {
+							"id": 521,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 55,
+						"contagem": 1,
+						"title": "Responsabilidade das prestadoras de serviços públicos"
+					}
+				],
+				"indice": 55,
+				"contagem": 0,
+				"title": "Responsabilidade Civil do Estado"
+			},
+			{
+				"id": 537,
+				"nome": "Agentes Públicos",
+				"tipo": "Assunto",
+				"hierarquia": "09",
+				"descendentes": "537;2220;1165;3233;3235;3234;1308;2221;1967;1168;1169;3776;1171;1172;3777;3778;2222;1174;2649;2640;540;3596;1133;1134;1135;1136;1137;1138;2646;1140;4335;3597;1141;1142;1143;2798;541;4288;5764;5772;5771;5770;5769;5768;5767;5766;5765;1657;4553;",
+				"subTree": [
+					{
+						"id": 1169,
+						"nome": "Concurso Público",
+						"tipo": "Assunto",
+						"hierarquia": "09.06",
+						"descendentes": "1169;",
+						"pai": {
+							"id": 537,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 57,
+						"contagem": 1,
+						"title": "Concurso Público"
+					},
+					{
+						"id": 540,
+						"nome": "Lei nº 8.112/1990 (lei federal)",
+						"tipo": "Assunto",
+						"hierarquia": "09.14",
+						"descendentes": "540;3596;1133;1134;1135;1136;1137;1138;2646;1140;4335;3597;1141;1142;1143;2798;",
+						"pai": {
+							"id": 537,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [
+							{
+								"id": 1133,
+								"nome": "Formas de provimento (Lei 8.112 - arts. 5º a 32)",
+								"tipo": "Assunto",
+								"hierarquia": "09.14.02",
+								"descendentes": "1133;",
+								"pai": {
+									"id": 540,
+									"tipo": "Assunto",
+									"indice": 0,
+									"contagem": 0
+								},
+								"subTree": [],
+								"indice": 58,
+								"contagem": 2,
+								"title": "Formas de provimento (Lei 8.112 - arts. 5º a 32)"
+							},
+							{
+								"id": 1141,
+								"nome": "Do regime disciplinar (Lei 8.112 - arts. 116 a 142)",
+								"tipo": "Assunto",
+								"hierarquia": "09.14.12",
+								"descendentes": "1141;",
+								"pai": {
+									"id": 540,
+									"tipo": "Assunto",
+									"indice": 0,
+									"contagem": 0
+								},
+								"subTree": [],
+								"indice": 60,
+								"contagem": 1,
+								"title": "Do regime disciplinar (Lei 8.112 - arts. 116 a 142)"
+							}
+						],
+						"indice": 58,
+						"contagem": 0,
+						"title": "Lei nº 8.112/1990 (lei federal)"
+					},
+					{
+						"id": 541,
+						"nome": "Estatutos dos Servidores Estaduais e Municipais",
+						"tipo": "Assunto",
+						"hierarquia": "09.15",
+						"descendentes": "541;4288;5764;5772;5771;5770;5769;5768;5767;5766;5765;",
+						"pai": {
+							"id": 537,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [
+							{
+								"id": 5771,
+								"nome": "Estabilidade e Estágio Probatório (Servidores Estaduais e Municipais)",
+								"tipo": "Assunto",
+								"hierarquia": "09.15.04",
+								"descendentes": "5771;",
+								"pai": {
+									"id": 541,
+									"tipo": "Assunto",
+									"indice": 0,
+									"contagem": 0
+								},
+								"subTree": [],
+								"indice": 61,
+								"contagem": 1,
+								"title": "Estabilidade e Estágio Probatório (Servidores Estaduais e Municipais)"
+							}
+						],
+						"indice": 61,
+						"contagem": 0,
+						"title": "Estatutos dos Servidores Estaduais e Municipais"
+					}
+				],
+				"indice": 56,
+				"contagem": 1,
+				"title": "Agentes Públicos"
+			},
+			{
+				"id": 612,
+				"nome": "Improbidade Administrativa (Lei 8.429/1992)",
+				"tipo": "Assunto",
+				"hierarquia": "10",
+				"descendentes": "612;1917;1145;1146;3775;2641;2642;1149;",
+				"subTree": [
+					{
+						"id": 1145,
+						"nome": "Dos atos de improbidade (Lei 8.429 - arts. 9º a 11)",
+						"tipo": "Assunto",
+						"hierarquia": "10.02",
+						"descendentes": "1145;",
+						"pai": {
+							"id": 612,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 63,
+						"contagem": 2,
+						"title": "Dos atos de improbidade (Lei 8.429 - arts. 9º a 11)"
+					},
+					{
+						"id": 2641,
+						"nome": "Do processo administrativo e judicial (Lei 8.429 - arts. 14 a 18)",
+						"tipo": "Assunto",
+						"hierarquia": "10.05",
+						"descendentes": "2641;",
+						"pai": {
+							"id": 612,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 65,
+						"contagem": 1,
+						"title": "Do processo administrativo e judicial (Lei 8.429 - arts. 14 a 18)"
+					}
+				],
+				"indice": 62,
+				"contagem": 1,
+				"title": "Improbidade Administrativa (Lei 8.429/1992)"
+			},
+			{
+				"id": 548,
+				"nome": "Processo Administrativo",
+				"tipo": "Assunto",
+				"hierarquia": "12",
+				"descendentes": "548;549;550;",
+				"subTree": [
+					{
+						"id": 549,
+						"nome": "Processo Administrativo Federal (Lei 9.784/1999)",
+						"tipo": "Assunto",
+						"hierarquia": "12.01",
+						"descendentes": "549;",
+						"pai": {
+							"id": 548,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 66,
+						"contagem": 2,
+						"title": "Processo Administrativo Federal (Lei 9.784/1999)"
+					}
+				],
+				"indice": 66,
+				"contagem": 0,
+				"title": "Processo Administrativo"
+			},
+			{
+				"id": 551,
+				"nome": "Licitações (Lei 8.666/1993)",
+				"tipo": "Assunto",
+				"hierarquia": "13",
+				"descendentes": "551;552;1302;553;3236;3237;554;3238;3239;3240;555;1995;1924;1923;3545;1991;2652;",
+				"subTree": [
+					{
+						"id": 552,
+						"nome": "Definições, obras e serviços, compras (arts. 6 a 16, Lei 8.666)",
+						"tipo": "Assunto",
+						"hierarquia": "13.01",
+						"descendentes": "552;",
+						"pai": {
+							"id": 551,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 68,
+						"contagem": 1,
+						"title": "Definições, obras e serviços, compras (arts. 6 a 16, Lei 8.666)"
+					},
+					{
+						"id": 553,
+						"nome": "Modalidades na Lei 8.666/1993",
+						"tipo": "Assunto",
+						"hierarquia": "13.03",
+						"descendentes": "553;3236;3237;",
+						"pai": {
+							"id": 551,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [
+							{
+								"id": 3237,
+								"nome": "Leilão e Concurso",
+								"tipo": "Assunto",
+								"hierarquia": "13.03.02",
+								"descendentes": "3237;",
+								"pai": {
+									"id": 553,
+									"tipo": "Assunto",
+									"indice": 0,
+									"contagem": 0
+								},
+								"subTree": [],
+								"indice": 69,
+								"contagem": 1,
+								"title": "Leilão e Concurso"
+							}
+						],
+						"indice": 69,
+						"contagem": 0,
+						"title": "Modalidades na Lei 8.666/1993"
+					},
+					{
+						"id": 555,
+						"nome": "Fases (Licitação)",
+						"tipo": "Assunto",
+						"hierarquia": "13.05",
+						"descendentes": "555;",
+						"pai": {
+							"id": 551,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 70,
+						"contagem": 1,
+						"title": "Fases (Licitação)"
+					}
+				],
+				"indice": 68,
+				"contagem": 0,
+				"title": "Licitações (Lei 8.666/1993)"
+			},
+			{
+				"id": 559,
+				"nome": "Contratos Administrativos (Lei 8.666/1993)",
+				"tipo": "Assunto",
+				"hierarquia": "18",
+				"descendentes": "559;1992;3880;562;3244;1993;3243;563;1306;1161;564;1157;1158;3241;2653;1994;2647;2651;3242;1162;1163;1304;",
+				"subTree": [
+					{
+						"id": 563,
+						"nome": "Execução dos contratos (arts. 66 a 76 da Lei 8.666/1993)",
+						"tipo": "Assunto",
+						"hierarquia": "18.07",
+						"descendentes": "563;1306;",
+						"pai": {
+							"id": 559,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 71,
+						"contagem": 1,
+						"title": "Execução dos contratos (arts. 66 a 76 da Lei 8.666/1993)"
+					}
+				],
+				"indice": 71,
+				"contagem": 0,
+				"title": "Contratos Administrativos (Lei 8.666/1993)"
+			},
+			{
+				"nome": "Sem Classificação",
+				"tipo": "Assunto",
+				"indice": 72,
+				"contagem": 1,
+				"title": "Sem Classificação"
+			}
+		],
+		"indice": 52,
+		"contagem": 0
+	},
+	{
+		"id": 30,
+		"nome": "Direito Ambiental",
+		"tipo": "Materia",
+		"subTree": [
+			{
+				"nome": "Sem Classificação",
+				"tipo": "Assunto",
+				"indice": 73,
+				"contagem": 1,
+				"title": "Sem Classificação"
+			}
+		],
+		"indice": 73,
+		"contagem": 0
+	},
+	{
+		"id": 6,
+		"nome": "Direito Civil",
+		"tipo": "Materia",
+		"subTree": [
+			{
+				"id": 3331,
+				"nome": "Das Várias Espécies de Contrato (arts. 481 a 853)",
+				"tipo": "Assunto",
+				"hierarquia": "07",
+				"descendentes": "3331;3332;4010;4607;4608;4609;4610;4446;4611;3333;3334;3336;3335;3339;3341;3342;3343;3344;3345;3346;3347;3348;3340;3349;3350;3351;3352;3353;",
+				"subTree": [
+					{
+						"id": 3342,
+						"nome": "Da Empreitada (arts. 610 a 626)",
+						"tipo": "Assunto",
+						"hierarquia": "07.08",
+						"descendentes": "3342;",
+						"pai": {
+							"id": 3331,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 74,
+						"contagem": 1,
+						"title": "Da Empreitada (arts. 610 a 626)"
+					}
+				],
+				"indice": 74,
+				"contagem": 0,
+				"title": "Das Várias Espécies de Contrato (arts. 481 a 853)"
+			}
+		],
+		"indice": 74,
+		"contagem": 0
+	},
+	{
+		"id": 2,
+		"nome": "Direito Constitucional",
+		"tipo": "Materia",
+		"subTree": [
+			{
+				"id": 370,
+				"nome": "Dos Direitos e Garantias Fundamentais",
+				"tipo": "Assunto",
+				"hierarquia": "08",
+				"descendentes": "370;371;372;369;",
+				"subTree": [
+					{
+						"id": 369,
+						"nome": "Dos direitos e deveres individuais e coletivos (art. 5º da CF/1988) ",
+						"tipo": "Assunto",
+						"hierarquia": "08.03",
+						"descendentes": "369;",
+						"pai": {
+							"id": 370,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 75,
+						"contagem": 2,
+						"title": "Dos direitos e deveres individuais e coletivos (art. 5º da CF/1988) "
+					}
+				],
+				"indice": 75,
+				"contagem": 0,
+				"title": "Dos Direitos e Garantias Fundamentais"
+			},
+			{
+				"id": 376,
+				"nome": "Remédios Constitucionais",
+				"tipo": "Assunto",
+				"hierarquia": "09",
+				"descendentes": "376;377;378;379;380;2080;2081;",
+				"subTree": [],
+				"indice": 77,
+				"contagem": 1,
+				"title": "Remédios Constitucionais"
+			},
+			{
+				"id": 373,
+				"nome": "Dos direitos sociais (arts. 6º a 11 da CF/1988)",
+				"tipo": "Assunto",
+				"hierarquia": "10",
+				"descendentes": "373;374;375;",
+				"subTree": [
+					{
+						"id": 374,
+						"nome": "Direitos Sociais e dos Trabalhadores (arts. 6º e 7º)",
+						"tipo": "Assunto",
+						"hierarquia": "10.01",
+						"descendentes": "374;",
+						"pai": {
+							"id": 373,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 78,
+						"contagem": 1,
+						"title": "Direitos Sociais e dos Trabalhadores (arts. 6º e 7º)"
+					}
+				],
+				"indice": 78,
+				"contagem": 0,
+				"title": "Dos direitos sociais (arts. 6º a 11 da CF/1988)"
+			},
+			{
+				"id": 384,
+				"nome": "Direitos Políticos (arts. 14 a 16 da CF/1988)",
+				"tipo": "Assunto",
+				"hierarquia": "12",
+				"descendentes": "384;1878;1881;1882;",
+				"subTree": [
+					{
+						"id": 1878,
+						"nome": "Capacidade eleitoral ativa e passiva",
+						"tipo": "Assunto",
+						"hierarquia": "12.01",
+						"descendentes": "1878;",
+						"pai": {
+							"id": 384,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 81,
+						"contagem": 1,
+						"title": "Capacidade eleitoral ativa e passiva"
+					},
+					{
+						"id": 1881,
+						"nome": "Inelegibilidades (Direitos Políticos)",
+						"tipo": "Assunto",
+						"hierarquia": "12.02",
+						"descendentes": "1881;",
+						"pai": {
+							"id": 384,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 82,
+						"contagem": 1,
+						"title": "Inelegibilidades (Direitos Políticos)"
+					}
+				],
+				"indice": 79,
+				"contagem": 2,
+				"title": "Direitos Políticos (arts. 14 a 16 da CF/1988)"
+			},
+			{
+				"id": 386,
+				"nome": "Da Organização do Estado",
+				"tipo": "Assunto",
+				"hierarquia": "14",
+				"descendentes": "386;1877;389;3193;3194;3195;3196;",
+				"subTree": [
+					{
+						"id": 389,
+						"nome": "Repartição de Competências Constitucionais",
+						"tipo": "Assunto",
+						"hierarquia": "14.02",
+						"descendentes": "389;",
+						"pai": {
+							"id": 386,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 84,
+						"contagem": 1,
+						"title": "Repartição de Competências Constitucionais"
+					}
+				],
+				"indice": 83,
+				"contagem": 1,
+				"title": "Da Organização do Estado"
+			},
+			{
+				"id": 1951,
+				"nome": "Da Organização dos Poderes",
+				"tipo": "Assunto",
+				"hierarquia": "17",
+				"descendentes": "1951;394;396;397;399;398;400;1883;2079;401;402;403;2635;404;414;415;417;420;421;422;425;1950;427;3208;3205;3206;3207;438;431;3209;1876;432;433;434;435;436;437;",
+				"subTree": [
+					{
+						"id": 425,
+						"nome": "Do Poder Judiciário (arts. 92 a 126 da CF/1988)",
+						"tipo": "Assunto",
+						"hierarquia": "17.04",
+						"descendentes": "425;1950;427;3208;3205;3206;3207;438;431;3209;1876;432;433;434;435;436;437;",
+						"pai": {
+							"id": 1951,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [
+							{
+								"id": 3209,
+								"nome": "Das Súmulas Vinculantes (art. 103-A da CF/1988)",
+								"tipo": "Assunto",
+								"hierarquia": "17.04.03",
+								"descendentes": "3209;",
+								"pai": {
+									"id": 425,
+									"tipo": "Assunto",
+									"indice": 0,
+									"contagem": 0
+								},
+								"subTree": [],
+								"indice": 85,
+								"contagem": 1,
+								"title": "Das Súmulas Vinculantes (art. 103-A da CF/1988)"
+							},
+							{
+								"id": 432,
+								"nome": "Do Superior Tribunal de Justiça - STJ (arts. 104 e 105 da CF/1988)",
+								"tipo": "Assunto",
+								"hierarquia": "17.04.05",
+								"descendentes": "432;",
+								"pai": {
+									"id": 425,
+									"tipo": "Assunto",
+									"indice": 0,
+									"contagem": 0
+								},
+								"subTree": [],
+								"indice": 86,
+								"contagem": 1,
+								"title": "Do Superior Tribunal de Justiça - STJ (arts. 104 e 105 da CF/1988)"
+							}
+						],
+						"indice": 85,
+						"contagem": 0,
+						"title": "Do Poder Judiciário (arts. 92 a 126 da CF/1988)"
+					}
+				],
+				"indice": 85,
+				"contagem": 0,
+				"title": "Da Organização dos Poderes"
+			},
+			{
+				"id": 405,
+				"nome": "Processo Legislativo (arts. 59 a 69 da CF/1988)",
+				"tipo": "Assunto",
+				"hierarquia": "18",
+				"descendentes": "405;406;407;1962;409;412;411;413;3246;",
+				"subTree": [
+					{
+						"id": 407,
+						"nome": "Da Emenda à Constituição (art. 60 da CF/1988)",
+						"tipo": "Assunto",
+						"hierarquia": "18.02",
+						"descendentes": "407;",
+						"pai": {
+							"id": 405,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 87,
+						"contagem": 1,
+						"title": "Da Emenda à Constituição (art. 60 da CF/1988)"
+					}
+				],
+				"indice": 87,
+				"contagem": 0,
+				"title": "Processo Legislativo (arts. 59 a 69 da CF/1988)"
+			},
+			{
+				"id": 452,
+				"nome": "Funções Essenciais à Justiça (arts. 127 a 135 da CF/1988)",
+				"tipo": "Assunto",
+				"hierarquia": "19",
+				"descendentes": "452;453;3210;3212;3211;3213;3214;3222;3215;454;456;",
+				"subTree": [
+					{
+						"id": 453,
+						"nome": "Ministério Público (arts. 127 a 130 da CF/1988)",
+						"tipo": "Assunto",
+						"hierarquia": "19.01",
+						"descendentes": "453;3210;3212;3211;3213;3214;3222;3215;",
+						"pai": {
+							"id": 452,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [
+							{
+								"id": 3212,
+								"nome": "Funções institucionais (Ministério Público)",
+								"tipo": "Assunto",
+								"hierarquia": "19.01.02",
+								"descendentes": "3212;",
+								"pai": {
+									"id": 453,
+									"tipo": "Assunto",
+									"indice": 0,
+									"contagem": 0
+								},
+								"subTree": [],
+								"indice": 88,
+								"contagem": 1,
+								"title": "Funções institucionais (Ministério Público)"
+							}
+						],
+						"indice": 88,
+						"contagem": 0,
+						"title": "Ministério Público (arts. 127 a 130 da CF/1988)"
+					}
+				],
+				"indice": 88,
+				"contagem": 0,
+				"title": "Funções Essenciais à Justiça (arts. 127 a 135 da CF/1988)"
+			},
+			{
+				"id": 477,
+				"nome": "Controle de Constitucionalidade",
+				"tipo": "Assunto",
+				"hierarquia": "26",
+				"descendentes": "477;478;1988;479;480;481;1987;483;484;485;2219;486;487;1961;488;3226;489;",
+				"subTree": [
+					{
+						"id": 484,
+						"nome": "Controle Concentrado exercido pelo Poder Judiciário",
+						"tipo": "Assunto",
+						"hierarquia": "26.08",
+						"descendentes": "484;485;2219;486;487;1961;488;3226;",
+						"pai": {
+							"id": 477,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 89,
+						"contagem": 1,
+						"title": "Controle Concentrado exercido pelo Poder Judiciário"
+					}
+				],
+				"indice": 89,
+				"contagem": 0,
+				"title": "Controle de Constitucionalidade"
+			},
+			{
+				"nome": "Sem Classificação",
+				"tipo": "Assunto",
+				"indice": 90,
+				"contagem": 5,
+				"title": "Sem Classificação"
+			}
+		],
+		"indice": 75,
+		"contagem": 0
+	},
+	{
+		"id": 12,
+		"nome": "Direito Eleitoral",
+		"tipo": "Materia",
+		"subTree": [
+			{
+				"id": 3913,
+				"nome": "Conceito e fontes (Direito Eleitoral)",
+				"tipo": "Assunto",
+				"hierarquia": "01",
+				"descendentes": "3913;",
+				"subTree": [],
+				"indice": 95,
+				"contagem": 1,
+				"title": "Conceito e fontes (Direito Eleitoral)"
+			},
+			{
+				"id": 3919,
+				"nome": "Dos órgãos da Justiça Eleitoral (arts. 12 a 41 do Código Eleitoral)",
+				"tipo": "Assunto",
+				"hierarquia": "04",
+				"descendentes": "3919;3920;3921;3922;3923;",
+				"subTree": [
+					{
+						"id": 3920,
+						"nome": "Do Tribunal Superior Eleitoral",
+						"tipo": "Assunto",
+						"hierarquia": "04.01",
+						"descendentes": "3920;",
+						"pai": {
+							"id": 3919,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 99,
+						"contagem": 1,
+						"title": "Do Tribunal Superior Eleitoral"
+					},
+					{
+						"id": 3921,
+						"nome": "Dos Tribunais Regionais Eleitorais",
+						"tipo": "Assunto",
+						"hierarquia": "04.02",
+						"descendentes": "3921;",
+						"pai": {
+							"id": 3919,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 100,
+						"contagem": 1,
+						"title": "Dos Tribunais Regionais Eleitorais"
+					},
+					{
+						"id": 3923,
+						"nome": "Das juntas eleitorais: composição e atribuições",
+						"tipo": "Assunto",
+						"hierarquia": "04.04",
+						"descendentes": "3923;",
+						"pai": {
+							"id": 3919,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 101,
+						"contagem": 1,
+						"title": "Das juntas eleitorais: composição e atribuições"
+					}
+				],
+				"indice": 96,
+				"contagem": 3,
+				"title": "Dos órgãos da Justiça Eleitoral (arts. 12 a 41 do Código Eleitoral)"
+			},
+			{
+				"id": 3924,
+				"nome": "Ministério Público Eleitoral",
+				"tipo": "Assunto",
+				"hierarquia": "05",
+				"descendentes": "3924;",
+				"subTree": [],
+				"indice": 102,
+				"contagem": 2,
+				"title": "Ministério Público Eleitoral"
+			},
+			{
+				"id": 3933,
+				"nome": "Alistamento Eleitoral e Domicílio Eleitoral",
+				"tipo": "Assunto",
+				"hierarquia": "06",
+				"descendentes": "3933;3935;3934;3936;3975;",
+				"subTree": [
+					{
+						"id": 3975,
+						"nome": "Resolução TSE nº 21.538/2003",
+						"tipo": "Assunto",
+						"hierarquia": "06.04",
+						"descendentes": "3975;",
+						"pai": {
+							"id": 3933,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 105,
+						"contagem": 1,
+						"title": "Resolução TSE nº 21.538/2003"
+					}
+				],
+				"indice": 104,
+				"contagem": 1,
+				"title": "Alistamento Eleitoral e Domicílio Eleitoral"
+			},
+			{
+				"id": 3925,
+				"nome": "Dos partidos políticos (Lei 9.096/1995 e posteriores alterações)",
+				"tipo": "Assunto",
+				"hierarquia": "07",
+				"descendentes": "3925;3926;3927;3928;3929;3930;3931;3932;",
+				"subTree": [
+					{
+						"id": 3927,
+						"nome": "Criação e registro dos partidos políticos",
+						"tipo": "Assunto",
+						"hierarquia": "07.02",
+						"descendentes": "3927;",
+						"pai": {
+							"id": 3925,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 110,
+						"contagem": 2,
+						"title": "Criação e registro dos partidos políticos"
+					},
+					{
+						"id": 3928,
+						"nome": "Fusão, incorporação e extinção dos partidos políticos",
+						"tipo": "Assunto",
+						"hierarquia": "07.03",
+						"descendentes": "3928;",
+						"pai": {
+							"id": 3925,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 112,
+						"contagem": 1,
+						"title": "Fusão, incorporação e extinção dos partidos políticos"
+					}
+				],
+				"indice": 106,
+				"contagem": 4,
+				"title": "Dos partidos políticos (Lei 9.096/1995 e posteriores alterações)"
+			},
+			{
+				"id": 3940,
+				"nome": "Inelegibilidade (Lei Complementar 64/1990)",
+				"tipo": "Assunto",
+				"hierarquia": "09",
+				"descendentes": "3940;",
+				"subTree": [],
+				"indice": 113,
+				"contagem": 5,
+				"title": "Inelegibilidade (Lei Complementar 64/1990)"
+			},
+			{
+				"id": 3941,
+				"nome": "Registro de candidatura",
+				"tipo": "Assunto",
+				"hierarquia": "10",
+				"descendentes": "3941;3942;3943;3944;",
+				"subTree": [
+					{
+						"id": 3943,
+						"nome": "Coligação partidária",
+						"tipo": "Assunto",
+						"hierarquia": "10.02",
+						"descendentes": "3943;",
+						"pai": {
+							"id": 3941,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 121,
+						"contagem": 1,
+						"title": "Coligação partidária"
+					},
+					{
+						"id": 3944,
+						"nome": "Impugnação a pedido de registro de candidatura",
+						"tipo": "Assunto",
+						"hierarquia": "10.03",
+						"descendentes": "3944;",
+						"pai": {
+							"id": 3941,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 122,
+						"contagem": 1,
+						"title": "Impugnação a pedido de registro de candidatura"
+					}
+				],
+				"indice": 118,
+				"contagem": 3,
+				"title": "Registro de candidatura"
+			},
+			{
+				"id": 3945,
+				"nome": "Da votação (arts. 135 a 156 do Código Eleitoral)",
+				"tipo": "Assunto",
+				"hierarquia": "11",
+				"descendentes": "3945;3946;3947;3948;",
+				"subTree": [
+					{
+						"id": 3947,
+						"nome": "Dos lugares de votação, das seções eleitorais e das mesas receptoras",
+						"tipo": "Assunto",
+						"hierarquia": "11.02",
+						"descendentes": "3947;",
+						"pai": {
+							"id": 3945,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 123,
+						"contagem": 1,
+						"title": "Dos lugares de votação, das seções eleitorais e das mesas receptoras"
+					}
+				],
+				"indice": 123,
+				"contagem": 0,
+				"title": "Da votação (arts. 135 a 156 do Código Eleitoral)"
+			},
+			{
+				"id": 3949,
+				"nome": "O dever eleitoral (o voto): sanções, isenção e justificação pelo não comparecimento à eleição",
+				"tipo": "Assunto",
+				"hierarquia": "12",
+				"descendentes": "3949;",
+				"subTree": [],
+				"indice": 124,
+				"contagem": 1,
+				"title": "O dever eleitoral (o voto): sanções, isenção e justificação pelo não comparecimento à eleição"
+			},
+			{
+				"id": 3950,
+				"nome": "Campanha eleitoral",
+				"tipo": "Assunto",
+				"hierarquia": "13",
+				"descendentes": "3950;3952;3953;",
+				"subTree": [
+					{
+						"id": 3952,
+						"nome": "Financiamento da companha eleitoral",
+						"tipo": "Assunto",
+						"hierarquia": "13.02",
+						"descendentes": "3952;",
+						"pai": {
+							"id": 3950,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 126,
+						"contagem": 1,
+						"title": "Financiamento da companha eleitoral"
+					},
+					{
+						"id": 3953,
+						"nome": "Prestação de contas da campanha eleitoral",
+						"tipo": "Assunto",
+						"hierarquia": "13.03",
+						"descendentes": "3953;",
+						"pai": {
+							"id": 3950,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 127,
+						"contagem": 2,
+						"title": "Prestação de contas da campanha eleitoral"
+					}
+				],
+				"indice": 125,
+				"contagem": 1,
+				"title": "Campanha eleitoral"
+			},
+			{
+				"id": 3955,
+				"nome": "Da apuração (arts. 158 a 233-A do Código Eleitoral)",
+				"tipo": "Assunto",
+				"hierarquia": "14",
+				"descendentes": "3955;3956;3957;3958;",
+				"subTree": [
+					{
+						"id": 3958,
+						"nome": "Da proclamação e da diplomação dos eleitos (da apuração)",
+						"tipo": "Assunto",
+						"hierarquia": "14.03",
+						"descendentes": "3958;",
+						"pai": {
+							"id": 3955,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 129,
+						"contagem": 1,
+						"title": "Da proclamação e da diplomação dos eleitos (da apuração)"
+					}
+				],
+				"indice": 129,
+				"contagem": 0,
+				"title": "Da apuração (arts. 158 a 233-A do Código Eleitoral)"
+			},
+			{
+				"id": 3984,
+				"nome": "Privilégios e garantias eleitorais",
+				"tipo": "Assunto",
+				"hierarquia": "15",
+				"descendentes": "3984;3980;3986;",
+				"subTree": [
+					{
+						"id": 3986,
+						"nome": "Fornecimento gratuito de transporte residentes zonas rurais (Lei 6.091/1974)",
+						"tipo": "Assunto",
+						"hierarquia": "15.02",
+						"descendentes": "3986;",
+						"pai": {
+							"id": 3984,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 130,
+						"contagem": 1,
+						"title": "Fornecimento gratuito de transporte residentes zonas rurais (Lei 6.091/1974)"
+					}
+				],
+				"indice": 130,
+				"contagem": 0,
+				"title": "Privilégios e garantias eleitorais"
+			},
+			{
+				"id": 3959,
+				"nome": "Pesquisas e propaganda eleitoral",
+				"tipo": "Assunto",
+				"hierarquia": "16",
+				"descendentes": "3959;3960;3961;3962;",
+				"subTree": [
+					{
+						"id": 3960,
+						"nome": "Pesquisa eleitoral",
+						"tipo": "Assunto",
+						"hierarquia": "16.01",
+						"descendentes": "3960;",
+						"pai": {
+							"id": 3959,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 131,
+						"contagem": 1,
+						"title": "Pesquisa eleitoral"
+					},
+					{
+						"id": 3961,
+						"nome": "Propaganda eleitoral",
+						"tipo": "Assunto",
+						"hierarquia": "16.02",
+						"descendentes": "3961;",
+						"pai": {
+							"id": 3959,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 132,
+						"contagem": 6,
+						"title": "Propaganda eleitoral"
+					}
+				],
+				"indice": 131,
+				"contagem": 0,
+				"title": "Pesquisas e propaganda eleitoral"
+			},
+			{
+				"id": 3963,
+				"nome": "Recursos eleitorais (arts. 257 a 282 do Código Eleitoral)",
+				"tipo": "Assunto",
+				"hierarquia": "17",
+				"descendentes": "3963;3964;3965;3966;3967;3968;",
+				"subTree": [
+					{
+						"id": 3965,
+						"nome": "Recursos criminais",
+						"tipo": "Assunto",
+						"hierarquia": "17.02",
+						"descendentes": "3965;",
+						"pai": {
+							"id": 3963,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 139,
+						"contagem": 1,
+						"title": "Recursos criminais"
+					}
+				],
+				"indice": 138,
+				"contagem": 1,
+				"title": "Recursos eleitorais (arts. 257 a 282 do Código Eleitoral)"
+			},
+			{
+				"id": 3973,
+				"nome": "Invalidade: nulidade e anulabilidade dos votos e da eleição",
+				"tipo": "Assunto",
+				"hierarquia": "19",
+				"descendentes": "3973;",
+				"subTree": [],
+				"indice": 140,
+				"contagem": 1,
+				"title": "Invalidade: nulidade e anulabilidade dos votos e da eleição"
+			},
+			{
+				"id": 3979,
+				"nome": "Lei nº 9.504/1997 - Lei das Eleições",
+				"tipo": "Assunto",
+				"hierarquia": "20",
+				"descendentes": "3979;3983;3954;3977;",
+				"subTree": [
+					{
+						"id": 3954,
+						"nome": "Das Condutas vedadas aos agentes públicos (arts. 73 a 78)",
+						"tipo": "Assunto",
+						"hierarquia": "20.02",
+						"descendentes": "3954;",
+						"pai": {
+							"id": 3979,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 142,
+						"contagem": 3,
+						"title": "Das Condutas vedadas aos agentes públicos (arts. 73 a 78)"
+					},
+					{
+						"id": 3977,
+						"nome": "Demais Temas (Lei nº 9.504/1997)",
+						"tipo": "Assunto",
+						"hierarquia": "20.03",
+						"descendentes": "3977;",
+						"pai": {
+							"id": 3979,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 145,
+						"contagem": 1,
+						"title": "Demais Temas (Lei nº 9.504/1997)"
+					}
+				],
+				"indice": 141,
+				"contagem": 1,
+				"title": "Lei nº 9.504/1997 - Lei das Eleições"
+			}
+		],
+		"indice": 95,
+		"contagem": 0
+	},
+	{
+		"id": 183,
+		"nome": "Direitos Humanos",
+		"tipo": "Materia",
+		"subTree": [
+			{
+				"nome": "Sem Classificação",
+				"tipo": "Assunto",
+				"indice": 146,
+				"contagem": 2,
+				"title": "Sem Classificação"
+			}
+		],
+		"indice": 146,
+		"contagem": 0
+	},
+	{
+		"id": 43,
+		"nome": "Engenharia Civil e Auditoria de Obras",
+		"tipo": "Materia",
+		"subTree": [
+			{
+				"id": 3515,
+				"nome": "Edificações",
+				"tipo": "Assunto",
+				"hierarquia": "02",
+				"descendentes": "3515;3516;3517;3518;3519;5109;5110;5111;3520;5112;5113;5006;3521;5005;3422;2056;5328;5333;3522;3523;3524;3525;3526;5115;3527;3530;3528;5116;3531;5118;5117;5334;5119;5335;",
+				"subTree": [
+					{
+						"id": 3519,
+						"nome": "Concreto Armado",
+						"tipo": "Assunto",
+						"hierarquia": "02.04",
+						"descendentes": "3519;5109;5110;5111;3520;5112;5113;5006;",
+						"pai": {
+							"id": 3515,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [
+							{
+								"id": 5006,
+								"nome": "Ensaios de concreto",
+								"tipo": "Assunto",
+								"hierarquia": "02.04.03",
+								"descendentes": "5006;",
+								"pai": {
+									"id": 3519,
+									"tipo": "Assunto",
+									"indice": 0,
+									"contagem": 0
+								},
+								"subTree": [],
+								"indice": 148,
+								"contagem": 1,
+								"title": "Ensaios de concreto"
+							}
+						],
+						"indice": 148,
+						"contagem": 0,
+						"title": "Concreto Armado"
+					},
+					{
+						"id": 2056,
+						"nome": "Instalações Hidrossanitárias",
+						"tipo": "Assunto",
+						"hierarquia": "02.08",
+						"descendentes": "2056;",
+						"pai": {
+							"id": 3515,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 149,
+						"contagem": 1,
+						"title": "Instalações Hidrossanitárias"
+					},
+					{
+						"id": 3526,
+						"nome": "Revestimentos",
+						"tipo": "Assunto",
+						"hierarquia": "02.15",
+						"descendentes": "3526;",
+						"pai": {
+							"id": 3515,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 150,
+						"contagem": 1,
+						"title": "Revestimentos"
+					},
+					{
+						"id": 3527,
+						"nome": "Pinturas",
+						"tipo": "Assunto",
+						"hierarquia": "02.16",
+						"descendentes": "3527;",
+						"pai": {
+							"id": 3515,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 151,
+						"contagem": 1,
+						"title": "Pinturas"
+					},
+					{
+						"id": 3530,
+						"nome": "Resistência dos Materiais e Análise Estrutural",
+						"tipo": "Assunto",
+						"hierarquia": "02.19",
+						"descendentes": "3530;",
+						"pai": {
+							"id": 3515,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 152,
+						"contagem": 1,
+						"title": "Resistência dos Materiais e Análise Estrutural"
+					}
+				],
+				"indice": 148,
+				"contagem": 0,
+				"title": "Edificações"
+			},
+			{
+				"id": 4909,
+				"nome": "Obras Hídricas",
+				"tipo": "Assunto",
+				"hierarquia": "03",
+				"descendentes": "4909;4902;4903;4904;4905;4906;4907;4908;5120;5121;",
+				"subTree": [
+					{
+						"id": 4907,
+						"nome": "Obras de saneamento",
+						"tipo": "Assunto",
+						"hierarquia": "03.06",
+						"descendentes": "4907;",
+						"pai": {
+							"id": 4909,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 153,
+						"contagem": 1,
+						"title": "Obras de saneamento"
+					}
+				],
+				"indice": 153,
+				"contagem": 0,
+				"title": "Obras Hídricas"
+			},
+			{
+				"id": 3503,
+				"nome": "Meio-ambiente",
+				"tipo": "Assunto",
+				"hierarquia": "07",
+				"descendentes": "3503;",
+				"subTree": [],
+				"indice": 154,
+				"contagem": 1,
+				"title": "Meio-ambiente"
+			},
+			{
+				"id": 5007,
+				"nome": "Engenharia legal",
+				"tipo": "Assunto",
+				"hierarquia": "11",
+				"descendentes": "5007;5133;5125;5126;5127;5128;",
+				"subTree": [
+					{
+						"id": 5133,
+						"nome": "Engenharia de avaliações",
+						"tipo": "Assunto",
+						"hierarquia": "11.01",
+						"descendentes": "5133;5125;5126;",
+						"pai": {
+							"id": 5007,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 155,
+						"contagem": 1,
+						"title": "Engenharia de avaliações"
+					},
+					{
+						"id": 5127,
+						"nome": "Perícias de engenharia na construção civil",
+						"tipo": "Assunto",
+						"hierarquia": "11.02",
+						"descendentes": "5127;5128;",
+						"pai": {
+							"id": 5007,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [
+							{
+								"id": 5128,
+								"nome": "NBR 13.752",
+								"tipo": "Assunto",
+								"hierarquia": "11.02.01",
+								"descendentes": "5128;",
+								"pai": {
+									"id": 5127,
+									"tipo": "Assunto",
+									"indice": 0,
+									"contagem": 0
+								},
+								"subTree": [],
+								"indice": 157,
+								"contagem": 1,
+								"title": "NBR 13.752"
+							}
+						],
+						"indice": 156,
+						"contagem": 1,
+						"title": "Perícias de engenharia na construção civil"
+					}
+				],
+				"indice": 155,
+				"contagem": 0,
+				"title": "Engenharia legal"
+			},
+			{
+				"nome": "Sem Classificação",
+				"tipo": "Assunto",
+				"indice": 158,
+				"contagem": 19,
+				"title": "Sem Classificação"
+			}
+		],
+		"indice": 148,
+		"contagem": 0
+	},
+	{
+		"id": 61,
+		"nome": "Estatística",
+		"tipo": "Materia",
+		"subTree": [
+			{
+				"nome": "Sem Classificação",
+				"tipo": "Assunto",
+				"indice": 177,
+				"contagem": 2,
+				"title": "Sem Classificação"
+			}
+		],
+		"indice": 177,
+		"contagem": 0
+	},
+	{
+		"id": 121,
+		"nome": "Finanças e Conhecimentos Bancários",
+		"tipo": "Materia",
+		"subTree": [
+			{
+				"nome": "Sem Classificação",
+				"tipo": "Assunto",
+				"indice": 179,
+				"contagem": 14,
+				"title": "Sem Classificação"
+			}
+		],
+		"indice": 179,
+		"contagem": 0
+	},
+	{
+		"id": 135,
+		"nome": "Gestão de Projetos",
+		"tipo": "Materia",
+		"subTree": [
+			{
+				"nome": "Sem Classificação",
+				"tipo": "Assunto",
+				"indice": 193,
+				"contagem": 3,
+				"title": "Sem Classificação"
+			}
+		],
+		"indice": 193,
+		"contagem": 0
+	},
+	{
+		"id": 4,
+		"nome": "Informática",
+		"tipo": "Materia",
+		"subTree": [
+			{
+				"id": 1743,
+				"nome": "Hardware",
+				"tipo": "Assunto",
+				"hierarquia": "02",
+				"descendentes": "1743;2387;1752;2390;2391;2787;4310;2386;",
+				"subTree": [],
+				"indice": 196,
+				"contagem": 1,
+				"title": "Hardware"
+			},
+			{
+				"id": 1744,
+				"nome": "Sistemas Operacionais",
+				"tipo": "Assunto",
+				"hierarquia": "03",
+				"descendentes": "1744;2392;4595;2393;2394;2395;2396;2397;5013;5784;2398;2399;",
+				"subTree": [
+					{
+						"id": 2398,
+						"nome": "Linux / Unix",
+						"tipo": "Assunto",
+						"hierarquia": "03.03",
+						"descendentes": "2398;",
+						"pai": {
+							"id": 1744,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 197,
+						"contagem": 1,
+						"title": "Linux / Unix"
+					}
+				],
+				"indice": 197,
+				"contagem": 0,
+				"title": "Sistemas Operacionais"
+			},
+			{
+				"id": 2400,
+				"nome": "Microsoft Office",
+				"tipo": "Assunto",
+				"hierarquia": "04",
+				"descendentes": "2400;4590;1754;2401;2402;2403;2404;4280;4663;5296;4591;1755;2405;2406;2407;2408;4277;5312;4592;1756;2409;2410;2411;2412;4279;4664;5719;4593;2726;2727;2728;2729;2730;4281;",
+				"subTree": [
+					{
+						"id": 4591,
+						"nome": "Excel",
+						"tipo": "Assunto",
+						"hierarquia": "04.02",
+						"descendentes": "4591;1755;2405;2406;2407;2408;4277;5312;",
+						"pai": {
+							"id": 2400,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [
+							{
+								"id": 4277,
+								"nome": "Excel 2010",
+								"tipo": "Assunto",
+								"hierarquia": "04.02.6",
+								"descendentes": "4277;",
+								"pai": {
+									"id": 4591,
+									"tipo": "Assunto",
+									"indice": 0,
+									"contagem": 0
+								},
+								"subTree": [],
+								"indice": 199,
+								"contagem": 1,
+								"title": "Excel 2010"
+							}
+						],
+						"indice": 199,
+						"contagem": 0,
+						"title": "Excel"
+					}
+				],
+				"indice": 198,
+				"contagem": 1,
+				"title": "Microsoft Office"
+			},
+			{
+				"id": 2413,
+				"nome": "BrOffice / LibreOffice",
+				"tipo": "Assunto",
+				"hierarquia": "05",
+				"descendentes": "2413;2414;2415;2416;",
+				"subTree": [],
+				"indice": 200,
+				"contagem": 1,
+				"title": "BrOffice / LibreOffice"
+			},
+			{
+				"nome": "Sem Classificação",
+				"tipo": "Assunto",
+				"indice": 201,
+				"contagem": 17,
+				"title": "Sem Classificação"
+			}
+		],
+		"indice": 196,
+		"contagem": 0
+	},
+	{
+		"id": 114,
+		"nome": "Legislação Específica dos Tribunais Federais",
+		"tipo": "Materia",
+		"subTree": [
+			{
+				"nome": "Sem Classificação",
+				"tipo": "Assunto",
+				"indice": 218,
+				"contagem": 2,
+				"title": "Sem Classificação"
+			}
+		],
+		"indice": 218,
+		"contagem": 0
+	},
+	{
+		"id": 164,
+		"nome": "Legislação Geral dos Estados e do DF",
+		"tipo": "Materia",
+		"subTree": [
+			{
+				"nome": "Sem Classificação",
+				"tipo": "Assunto",
+				"indice": 220,
+				"contagem": 6,
+				"title": "Sem Classificação"
+			}
+		],
+		"indice": 220,
+		"contagem": 0
+	},
+	{
+		"id": 172,
+		"nome": "Legislação Penal Extravagante ou Complementar",
+		"tipo": "Materia",
+		"subTree": [
+			{
+				"id": 3974,
+				"nome": "Crimes Eleitorais (Código Eleitoral, Lei nº 9.504/1997, etc.)",
+				"tipo": "Assunto",
+				"hierarquia": "01",
+				"descendentes": "3974;",
+				"subTree": [],
+				"indice": 226,
+				"contagem": 5,
+				"title": "Crimes Eleitorais (Código Eleitoral, Lei nº 9.504/1997, etc.)"
+			}
+		],
+		"indice": 226,
+		"contagem": 0
+	},
+	{
+		"id": 20,
+		"nome": "Matemática Financeira",
+		"tipo": "Materia",
+		"subTree": [
+			{
+				"nome": "Sem Classificação",
+				"tipo": "Assunto",
+				"indice": 231,
+				"contagem": 8,
+				"title": "Sem Classificação"
+			}
+		],
+		"indice": 231,
+		"contagem": 0
+	},
+	{
+		"id": 3,
+		"nome": "Português",
+		"tipo": "Materia",
+		"subTree": [
+			{
+				"nome": "Sem Classificação",
+				"tipo": "Assunto",
+				"indice": 239,
+				"contagem": 44,
+				"title": "Sem Classificação"
+			}
+		],
+		"indice": 239,
+		"contagem": 0
+	},
+	{
+		"id": 182,
+		"nome": "Princípios e Atribuições Institucionais da Defensoria",
+		"tipo": "Materia",
+		"subTree": [
+			{
+				"nome": "Sem Classificação",
+				"tipo": "Assunto",
+				"indice": 283,
+				"contagem": 1,
+				"title": "Sem Classificação"
+			}
+		],
+		"indice": 283,
+		"contagem": 0
+	},
+	{
+		"id": 62,
+		"nome": "Raciocínio Lógico e Matemático",
+		"tipo": "Materia",
+		"subTree": [
+			{
+				"nome": "Sem Classificação",
+				"tipo": "Assunto",
+				"indice": 284,
+				"contagem": 10,
+				"title": "Sem Classificação"
+			}
+		],
+		"indice": 284,
+		"contagem": 0
+	},
+	{
+		"id": 65,
+		"nome": "Segurança e Saúde no Trabalho (SST)",
+		"tipo": "Materia",
+		"subTree": [
+			{
+				"nome": "Sem Classificação",
+				"tipo": "Assunto",
+				"indice": 294,
+				"contagem": 4,
+				"title": "Sem Classificação"
+			}
+		],
+		"indice": 294,
+		"contagem": 0
+	},
+	{
+		"id": 136,
+		"nome": "TI - Gestão e Governança de TI",
+		"tipo": "Materia",
+		"subTree": [
+			{
+				"id": 4594,
+				"nome": "Licença de Software",
+				"tipo": "Assunto",
+				"hierarquia": "10",
+				"descendentes": "4594;4506;4268;",
+				"subTree": [
+					{
+						"id": 4268,
+						"nome": "Software Livre",
+						"tipo": "Assunto",
+						"hierarquia": "10.02",
+						"descendentes": "4268;",
+						"pai": {
+							"id": 4594,
+							"tipo": "Assunto",
+							"indice": 0,
+							"contagem": 0
+						},
+						"subTree": [],
+						"indice": 298,
+						"contagem": 1,
+						"title": "Software Livre"
+					}
+				],
+				"indice": 298,
+				"contagem": 0,
+				"title": "Licença de Software"
+			}
+		],
+		"indice": 298,
+		"contagem": 0
+	},
+	{
+		"id": 193,
+		"nome": "Ética e Conduta Profissional",
+		"tipo": "Materia",
+		"subTree": [
+			{
+				"nome": "Sem Classificação",
+				"tipo": "Assunto",
+				"indice": 299,
+				"contagem": 2,
+				"title": "Sem Classificação"
+			}
+		],
+		"indice": 299,
+		"contagem": 0
+	}
+]

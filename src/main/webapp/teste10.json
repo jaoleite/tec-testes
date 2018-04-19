@@ -1,0 +1,420 @@
+{
+	"id": 1,
+	"description": "2017 Matriz Orçamentária",
+	"code": "M1",
+	"nodeType": "Matriz",
+	"nodeTypeId": 1,
+	"parent": null,
+	"budgetId": 1,
+	"children": [
+		{
+			"id": 2,
+			"description": "Naruto",
+			"code": "M2",
+			"nodeType": "Common",
+			"nodeTypeId": 2,
+			"parent": 1,
+			"budgetId": 1,
+			"children": [
+				{
+					"id": 3,
+					"description": "Sunagakure",
+					"code": "M3",
+					"nodeType": "Agrouping",
+					"nodeTypeId": 3,
+					"parent": 2,
+					"budgetId": 1,
+					"children": [
+						{
+							"id": 13,
+							"description": "Uchiha",
+							"code": "M13",
+							"nodeType": "Uniorg",
+							"nodeTypeId": 4,
+							"parent": 3,
+							"budgetId": 1,
+							"children": [
+								{
+									"id": 22,
+									"description": "CC a1",
+									"code": "NO",
+									"nodeType": "Account",
+									"nodeTypeId": 5,
+									"parent": 13,
+									"budgetId": 1,
+									"children": null,
+									"amounts": {
+										"orcado": "50,00",
+										"planejado": "0,00",
+										"comprometido": "0,00",
+										"realizado": "0,00"
+									},
+									"balance": "50,00"
+								},
+								{
+									"id": 23,
+									"description": "CC a2",
+									"code": "NO23",
+									"nodeType": "Account",
+									"nodeTypeId": 5,
+									"parent": 13,
+									"budgetId": 1,
+									"children": null,
+									"amounts": {
+										"orcado": "60,00",
+										"planejado": "4,44",
+										"comprometido": "0,00",
+										"realizado": "0,00"
+									},
+									"balance": "55,56"
+								},
+								{
+									"id": 24,
+									"description": "CC a3",
+									"code": "NO24",
+									"nodeType": "Account",
+									"nodeTypeId": 5,
+									"parent": 13,
+									"budgetId": 1,
+									"children": null,
+									"amounts": {
+										"orcado": "25.555,55",
+										"planejado": "0,00",
+										"comprometido": "0,00",
+										"realizado": "0,00"
+									},
+									"balance": "25.555,55"
+								}
+							],
+							"amounts": {
+								"orcado": "25.765,54",
+								"planejado": "534,68",
+								"comprometido": "0,00",
+								"realizado": "0,00"
+							},
+							"balance": "25.230,86"
+						},
+						{
+							"id": 27,
+							"description": "Uchira Rico",
+							"code": "NO27",
+							"nodeType": "Uniorg",
+							"nodeTypeId": 4,
+							"parent": 3,
+							"budgetId": 1,
+							"children": [
+								{
+									"id": 28,
+									"description": "Sasuke Rico",
+									"code": "NO28",
+									"nodeType": "Account",
+									"nodeTypeId": 5,
+									"parent": 27,
+									"budgetId": 1,
+									"children": null,
+									"amounts": {
+										"orcado": "250.000,00",
+										"planejado": "0,00",
+										"comprometido": "0,00",
+										"realizado": "0,00"
+									},
+									"balance": "250.000,00"
+								}
+							],
+							"amounts": {
+								"orcado": "250.000,00",
+								"planejado": "0,00",
+								"comprometido": "0,00",
+								"realizado": "0,00"
+							},
+							"balance": "250.000,00"
+						}
+					],
+					"amounts": {
+						"orcado": "275.765,54",
+						"planejado": "650,17",
+						"comprometido": "0,00",
+						"realizado": "0,00"
+					},
+					"balance": "275.115,37"
+				},
+				{
+					"id": 4,
+					"description": "Kirigakure",
+					"code": "M4",
+					"nodeType": "Agrouping",
+					"nodeTypeId": 3,
+					"parent": 2,
+					"budgetId": 1,
+					"children": [
+						{
+							"id": 15,
+							"description": "UNI KIRI",
+							"code": "M15",
+							"nodeType": "Uniorg",
+							"nodeTypeId": 4,
+							"parent": 4,
+							"budgetId": 1,
+							"children": [
+								{
+									"id": 16,
+									"description": "CC KIRI1",
+									"code": "M16",
+									"nodeType": "Account",
+									"nodeTypeId": 5,
+									"parent": 15,
+									"budgetId": 1,
+									"children": null,
+									"amounts": {
+										"orcado": "2.500,00",
+										"planejado": "23,00",
+										"comprometido": "0,00",
+										"realizado": "0,00"
+									},
+									"balance": "2.477,00"
+								},
+								{
+									"id": 31,
+									"description": "12222",
+									"code": "NO31",
+									"nodeType": "Account",
+									"nodeTypeId": 5,
+									"parent": 15,
+									"budgetId": 1,
+									"children": null,
+									"amounts": {
+										"orcado": "2.500,00",
+										"planejado": "0,00",
+										"comprometido": "0,00",
+										"realizado": "0,00"
+									},
+									"balance": "2.500,00"
+								},
+								{
+									"id": 47,
+									"description": "CC a2",
+									"code": "NO47",
+									"nodeType": "Account",
+									"nodeTypeId": 5,
+									"parent": 15,
+									"budgetId": 1,
+									"children": null,
+									"amounts": {
+										"orcado": "15.000,00",
+										"planejado": "0,00",
+										"comprometido": "0,00",
+										"realizado": "0,00"
+									},
+									"balance": "15.000,00"
+								}
+							],
+							"amounts": {
+								"orcado": "20.000,00",
+								"planejado": "23,00",
+								"comprometido": "0,00",
+								"realizado": "0,00"
+							},
+							"balance": "19.977,00"
+						}
+					],
+					"amounts": {
+						"orcado": "20.000,00",
+						"planejado": "23,99",
+						"comprometido": "0,00",
+						"realizado": "0,00"
+					},
+					"balance": "19.976,01"
+				},
+				{
+					"id": 5,
+					"description": "Kumogakure",
+					"code": "M5",
+					"nodeType": "Agrouping",
+					"nodeTypeId": 3,
+					"parent": 2,
+					"budgetId": 1,
+					"children": null,
+					"amounts": {
+						"orcado": "0,00",
+						"planejado": "0,00",
+						"comprometido": "0,00",
+						"realizado": "0,00"
+					},
+					"balance": "0,00"
+				},
+				{
+					"id": 6,
+					"description": "Iwagakure",
+					"code": "M6",
+					"nodeType": "Agrouping",
+					"nodeTypeId": 3,
+					"parent": 2,
+					"budgetId": 1,
+					"children": null,
+					"amounts": {
+						"orcado": "0,00",
+						"planejado": "0,00",
+						"comprometido": "0,00",
+						"realizado": "0,00"
+					},
+					"balance": "0,00"
+				},
+				{
+					"id": 7,
+					"description": "Konohagakure",
+					"code": "M7",
+					"nodeType": "Agrouping",
+					"nodeTypeId": 3,
+					"parent": 2,
+					"budgetId": 1,
+					"children": [
+						{
+							"id": 8,
+							"description": "Uchiha",
+							"code": "M8",
+							"nodeType": "Uniorg",
+							"nodeTypeId": 4,
+							"parent": 7,
+							"budgetId": 1,
+							"children": [
+								{
+									"id": 12,
+									"description": "Sasuke",
+									"code": "M12",
+									"nodeType": "Account",
+									"nodeTypeId": 5,
+									"parent": 8,
+									"budgetId": 1,
+									"children": null,
+									"amounts": {
+										"orcado": "10.000,00",
+										"planejado": "0,00",
+										"comprometido": "0,00",
+										"realizado": "0,00"
+									},
+									"balance": "10.000,00"
+								}
+							],
+							"amounts": {
+								"orcado": "10.000,00",
+								"planejado": "0,00",
+								"comprometido": "0,00",
+								"realizado": "0,00"
+							},
+							"balance": "10.000,00"
+						}
+					],
+					"amounts": {
+						"orcado": "10.000,00",
+						"planejado": "0,00",
+						"comprometido": "0,00",
+						"realizado": "0,00"
+					},
+					"balance": "10.000,00"
+				}
+			],
+			"amounts": {
+				"orcado": "305.765,54",
+				"planejado": "674,16",
+				"comprometido": "0,00",
+				"realizado": "0,00"
+			},
+			"balance": "305.091,38"
+		},
+		{
+			"id": 50,
+			"description": "Cartões",
+			"code": "NO50",
+			"nodeType": "Common",
+			"nodeTypeId": 2,
+			"parent": 1,
+			"budgetId": 1,
+			"children": [
+				{
+					"id": 51,
+					"description": "Private Label",
+					"code": "NO51",
+					"nodeType": "Agrouping",
+					"nodeTypeId": 3,
+					"parent": 50,
+					"budgetId": 1,
+					"children": [
+						{
+							"id": 52,
+							"description": "Bandeiras",
+							"code": "NO52",
+							"nodeType": "Uniorg",
+							"nodeTypeId": 4,
+							"parent": 51,
+							"budgetId": 1,
+							"children": [
+								{
+									"id": 53,
+									"description": "CC aa1",
+									"code": "NO53",
+									"nodeType": "Account",
+									"nodeTypeId": 5,
+									"parent": 52,
+									"budgetId": 1,
+									"children": null,
+									"amounts": {
+										"orcado": "1.000,00",
+										"planejado": "400,00",
+										"comprometido": "0,00",
+										"realizado": "0,00"
+									},
+									"balance": "600,00"
+								},
+								{
+									"id": 54,
+									"description": "CC aa2",
+									"code": "NO54",
+									"nodeType": "Account",
+									"nodeTypeId": 5,
+									"parent": 52,
+									"budgetId": 1,
+									"children": null,
+									"amounts": {
+										"orcado": "500,00",
+										"planejado": "495,00",
+										"comprometido": "0,00",
+										"realizado": "0,00"
+									},
+									"balance": "5,00"
+								}
+							],
+							"amounts": {
+								"orcado": "1.500,00",
+								"planejado": "895,00",
+								"comprometido": "0,00",
+								"realizado": "0,00"
+							},
+							"balance": "605,00"
+						}
+					],
+					"amounts": {
+						"orcado": "1.500,00",
+						"planejado": "1.490,00",
+						"comprometido": "0,00",
+						"realizado": "0,00"
+					},
+					"balance": "10,00"
+				}
+			],
+			"amounts": {
+				"orcado": "1.500,00",
+				"planejado": "1.490,00",
+				"comprometido": "0,00",
+				"realizado": "0,00"
+			},
+			"balance": "10,00"
+		}
+	],
+	"amounts": {
+		"orcado": "307.265,54",
+		"planejado": "2.164,16",
+		"comprometido": "0,00",
+		"realizado": "0,00"
+	},
+	"balance": "305.101,38"
+}

@@ -1,0 +1,56 @@
+{
+	"amount": 2990,
+	"refunded_amount": 0,
+	"authorized_amount": 0,
+	"paid_amount": 0,
+	"installments": 1,
+	"cost": 0,
+	"postback_url": "http://requestb.in/pkt7pgpk",
+	"referer": "api_key",
+	"ip": "187.255.61.181",
+	"payment_method": "credit_card",
+	"status": "processing",
+	"status_reason": "acquirer",
+	"date_updated": "2017-09-28T19:36:02.755-0300",
+	"customer": {
+		"document_number": "78250604075",
+		"document_type": "cpf",
+		"name": "Joao Paulo Nascimento",
+		"email": "jaoleite@yahoo.com.br",
+		"phone": {
+			"ddi": "55",
+			"ddd": "11",
+			"number": "82730390"
+		},
+		"address": {
+			"street": "Rua Rodrigues Seabra",
+			"street_number": "243",
+			"neighborhood": "Morro Chic",
+			"zipcode": "37500078"
+		},
+		"addresses": [],
+		"phones": [],
+		"id": 8958645,
+		"date_created": "2017-09-28T19:36:00.055-0300"
+	},
+	"card": {
+		"brand": "visa",
+		"holder_name": "Joao Paulo Nascimento",
+		"first_digits": "492931",
+		"last_digits": "1996",
+		"fingerprint": "cj84or1rk2yht0k78d4xpdbde",
+		"country": "UNITED KINGDOM",
+		"valid": false,
+		"date_updated": "2017-09-28T19:36:02.459-0300",
+		"id": "card_cj851gks802jjqf5y01bcu5x5",
+		"date_created": "2017-09-28T19:36:00.440-0300"
+	},
+	"metadata": {
+		"idPedido": 170850.0
+	},
+	"antifraud_metadata": {
+		
+	},
+	"id": 22936871,
+	"date_created": "2017-09-28T19:36:02.755-0300"
+}
