@@ -1,7 +1,6 @@
 package br.com.tecconcursos.util;
 
 import java.math.BigInteger;
-import java.nio.ByteBuffer;
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
 import java.text.ParseException;
@@ -126,10 +125,10 @@ public class BaseX {
 	}
 	
 	public static void teste() {
-		long l = 1000;
-		String encode = encode2(l);
+		BigInteger bigInteger = new BigInteger("2365507");
+		String encode = new BaseX().encode(bigInteger);
 		System.out.println("Encode: " + encode);
-		long decode = decode2(encode);
+		BigInteger decode = new BaseX().decode(encode);
 		System.out.println("Decode: " + decode);
 	}
 	
