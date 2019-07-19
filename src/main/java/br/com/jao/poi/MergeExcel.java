@@ -1,24 +1,8 @@
 package br.com.jao.poi;
 
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.Iterator;
-
-import org.apache.poi.hssf.usermodel.HSSFCell;
-import org.apache.poi.hssf.usermodel.HSSFRow;
-import org.apache.poi.hssf.usermodel.HSSFSheet;
-import org.apache.poi.hssf.usermodel.HSSFWorkbook;
-import org.apache.poi.ss.usermodel.Cell;
-import org.apache.poi.ss.usermodel.Row;
-import org.apache.poi.ss.usermodel.Sheet;
-import org.apache.poi.ss.usermodel.Workbook;
-import org.apache.poi.xssf.usermodel.XSSFWorkbook;
-
 public class MergeExcel {
 	
-	public static void main(String args[]) throws Exception {
+	/*public static void main(String args[]) throws Exception {
 		String pathExcel = "D:\\desenvolvimento\\arquivos\\excel\\";
 		String excelUm = pathExcel + "excel-dois.xlsx";
 		String excelDois = pathExcel + "excel-um.xlsx";
@@ -39,11 +23,11 @@ public class MergeExcel {
 		rowsArrayList1 = mergeExcel.sortColoumns(rowsArrayList1, tot);
 		ArrayList<ArrayListRows> totalList = mergeExcel.addRows(rowsArrayList, rowsArrayList1);
 		mergeExcel.writeToFile(path, totalList, firstRowList1);
-		/*
+		
 		 * Iterator<ArrayListRows> hfgks = totalList.iterator();
 		 * while(hfgks.hasNext())
 		 * System.out.println(((ArrayListRows)hfgks.next()).coloumns);
-		 */
+		 
 
 	}
 
@@ -240,6 +224,6 @@ public class MergeExcel {
 	public class ArrayListRows {
 		ArrayList<String> coloumns = new ArrayList<String>();
 		ArrayList<Integer> coloumnsType = new ArrayList<Integer>();
-	}
+	}*/
 
 }

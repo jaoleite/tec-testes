@@ -1,8 +1,14 @@
 package br.com.tecconcursos.util;
 
+import java.io.File;
+import java.io.IOException;
+import java.nio.file.Files;
+import java.util.Arrays;
 import java.util.Calendar;
 
 import org.apache.commons.lang.StringUtils;
+
+import br.com.tecconcursos.entity.enumeration.NotaFiscalTipoPrefeituraEnum;
 
 public class Teste {
 
@@ -62,11 +68,12 @@ public class Teste {
 		System.out.println(calendar.getTime());
 	}
 	
-	public static void main(String[] args) {
-		int totalPaginas = 5;
-		int paginaAtual = 1;
-		int quantidadeExibicao = 10;
-		paginacao2(totalPaginas, paginaAtual, quantidadeExibicao);
+	public static void buscarPorUrl(String url) {
+		try {
+			Arrays.asList(NotaFiscalTipoPrefeituraEnum.values()).stream().filter(p -> p.getUrl().equals(url)).findFirst().get();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
 	}
 	
 	public static void paginacao2(int totalPaginas, int paginaAtual, int quantidadeExibicao) {
@@ -146,5 +153,20 @@ public class Teste {
 		}
 		
 		System.out.println(builder.toString());
+	}
+	
+	public static void mimeType() throws IOException {
+		String pathname = "C:\\Users\\jaoin\\Downloads\\artigos-dicas-1.xml";
+		File file = new File(pathname);
+		String mime = Files.probeContentType(file.toPath());
+		System.out.println(mime);
+	}
+	
+	public static void main(String[] args) throws Exception {
+		/*int totalPaginas = 5;
+		int paginaAtual = 1;
+		int quantidadeExibicao = 10;
+		paginacao2(totalPaginas, paginaAtual, quantidadeExibicao);*/
+		mimeType();
 	}
 }

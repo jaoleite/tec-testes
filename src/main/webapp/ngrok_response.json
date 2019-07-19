@@ -1,0 +1,71 @@
+{
+    "tunnels": [
+        {
+            "name": "command_line",
+            "uri": "/api/tunnels/command_line",
+            "public_url": "https://2a780ab6.ngrok.io",
+            "proto": "https",
+            "config": {
+                "addr": "localhost:80",
+                "inspect": true
+            },
+            "metrics": {
+                "conns": {
+                    "count": 8,
+                    "gauge": 0,
+                    "rate1": 0.000796150839048494,
+                    "rate5": 0.001814211694082754,
+                    "rate15": 0.0009071785630234758,
+                    "p50": 20398553600,
+                    "p90": 20552201800,
+                    "p95": 20552201800,
+                    "p99": 20552201800
+                },
+                "http": {
+                    "count": 8,
+                    "rate1": 0.000796150839048494,
+                    "rate5": 0.001814211694082754,
+                    "rate15": 0.0009071785630234758,
+                    "p50": 92752850,
+                    "p90": 244185600,
+                    "p95": 244185600,
+                    "p99": 244185600
+                }
+            }
+        },
+        {
+            "name": "command_line (http)",
+            "uri": "/api/tunnels/command_line+%28http%29",
+            "public_url": "http://2a780ab6.ngrok.io",
+            "proto": "http",
+            "config": {
+                "addr": "localhost:80",
+                "inspect": true
+            },
+            "metrics": {
+                "conns": {
+                    "count": 0,
+                    "gauge": 0,
+                    "rate1": 0,
+                    "rate5": 0,
+                    "rate15": 0,
+                    "p50": 0,
+                    "p90": 0,
+                    "p95": 0,
+                    "p99": 0
+                },
+                "http": {
+                    "count": 0,
+                    "rate1": 0,
+                    "rate5": 0,
+                    "rate15": 0,
+                    "p50": 0,
+                    "p90": 0,
+                    "p95": 0,
+                    "p99": 0
+                }
+            }
+        }
+    ],
+    "uri": "/api/tunnels"
+}

@@ -1,8 +1,6 @@
 package br.com.tecconcursos.util;
 
 import java.math.BigInteger;
-import java.text.DecimalFormat;
-import java.text.NumberFormat;
 import java.text.ParseException;
 import java.util.ArrayList;
 import java.util.Base64;
@@ -99,10 +97,7 @@ public class BaseX {
 	}
 
 	public static void main(String[] args) throws ParseException {
-		BaseX bx = new BaseX();
-		String numero = "10000000";
 		
-		NumberFormat format = new DecimalFormat("00000000000000000000");
 		/*System.out.println(format.format(1l));
 		System.out.println(format.parse("00000000000000000001"));*/
 		

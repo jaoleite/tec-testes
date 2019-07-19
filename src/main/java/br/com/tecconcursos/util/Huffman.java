@@ -136,6 +136,7 @@ public class Huffman {
 		return stringBuilder.toString();
 	}
 
+	@SuppressWarnings("unused")
 	private static void serializeTree(HuffmanNode node) throws FileNotFoundException, IOException {
 		final BitSet bitSet = new BitSet();
 		try (ObjectOutputStream oosTree = new ObjectOutputStream(new FileOutputStream("/Users/ap/Desktop/tree"))) {
@@ -185,6 +186,7 @@ public class Huffman {
 		preOrder(node.right, oosChar, bitSet, intObject); // take the branch.
 	}
 
+	@SuppressWarnings("unused")
 	private static void serializeMessage(String message) throws IOException {
 		final BitSet bitSet = getBitSet(message);
 

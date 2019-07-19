@@ -1,0 +1,158 @@
+{
+	"responses": [
+		{
+			"took": 12,
+			"timed_out": false,
+			"_shards": {
+				"total": 5,
+				"successful": 5,
+				"skipped": 0,
+				"failed": 0
+			},
+			"hits": {
+				"total": 8,
+				"max_score": 13.127871,
+				"hits": [
+					{
+						"_index": "usuarios",
+						"_type": "usuario",
+						"_id": "271",
+						"_score": 13.127871,
+						"_source": {
+							"nome": "Rafael Garrido",
+							"id": 271
+						}
+					},
+					{
+						"_index": "usuarios",
+						"_type": "usuario",
+						"_id": "346358",
+						"_score": 10.090017,
+						"_source": {
+							"nome": "Rafael Menezes",
+							"id": 346358
+						}
+					},
+					{
+						"_index": "usuarios",
+						"_type": "usuario",
+						"_id": "24565",
+						"_score": 10.057035,
+						"_source": {
+							"nome": "Rafael Menezes",
+							"id": 24565
+						}
+					},
+					{
+						"_index": "usuarios",
+						"_type": "usuario",
+						"_id": "77562",
+						"_score": 8.7138605,
+						"_source": {
+							"nome": "rafael menezes de castro",
+							"id": 77562
+						}
+					},
+					{
+						"_index": "usuarios",
+						"_type": "usuario",
+						"_id": "110893",
+						"_score": 8.7138605,
+						"_source": {
+							"nome": "Rafael de Souza Menezes",
+							"id": 110893
+						}
+					},
+					{
+						"_index": "usuarios",
+						"_type": "usuario",
+						"_id": "149562",
+						"_score": 8.7138605,
+						"_source": {
+							"nome": "Ivo Rafael Santos Menezes",
+							"id": 149562
+						}
+					},
+					{
+						"_index": "usuarios",
+						"_type": "usuario",
+						"_id": "87317",
+						"_score": 8.614317,
+						"_source": {
+							"nome": "Antonio Rafael Menezes Bevilaqua",
+							"id": 87317
+						}
+					},
+					{
+						"_index": "usuarios",
+						"_type": "usuario",
+						"_id": "65788",
+						"_score": 7.476121,
+						"_source": {
+							"nome": "Rafael Bruno da Silva Menezes",
+							"id": 65788
+						}
+					}
+				]
+			},
+			"status": 200
+		},
+		{
+			"took": 29,
+			"timed_out": false,
+			"_shards": {
+				"total": 5,
+				"successful": 5,
+				"skipped": 0,
+				"failed": 0
+			},
+			"hits": {
+				"total": 4,
+				"max_score": 13.384991,
+				"hits": [
+					{
+						"_index": "usuarios",
+						"_type": "usuario",
+						"_id": "4764",
+						"_score": 13.384991,
+						"_source": {
+							"nome": "Marcos Marino",
+							"id": 4764
+						}
+					},
+					{
+						"_index": "usuarios",
+						"_type": "usuario",
+						"_id": "481155",
+						"_score": 10.092334,
+						"_source": {
+							"nome": "Marcos Borges",
+							"id": 481155
+						}
+					},
+					{
+						"_index": "usuarios",
+						"_type": "usuario",
+						"_id": "486190",
+						"_score": 8.545059,
+						"_source": {
+							"nome": "Marcos Aurelio Monteiro Borges",
+							"id": 486190
+						}
+					},
+					{
+						"_index": "usuarios",
+						"_type": "usuario",
+						"_id": "215358",
+						"_score": 8.445633,
+						"_source": {
+							"nome": "joao marcos borges ferreira",
+							"id": 215358
+						}
+					}
+				]
+			},
+			"status": 200
+		}
+	]
+}

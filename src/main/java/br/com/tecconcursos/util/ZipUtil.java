@@ -25,6 +25,6 @@ public class ZipUtil {
 		String string = "admin";
 		System.out.println("after compress:");
 		byte[] bs = compress(string);
-		// System.out.println(new String(bs, charset));
+		 System.out.println(new String(bs, charset));
 	}
 }

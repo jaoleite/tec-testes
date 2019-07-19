@@ -1,0 +1,31 @@
+[
+	{
+		"usuarioSiteId": 387736,
+		"pedidoId": 370213,
+		"numeroRps": 0,
+		"assinaturaId": 259292,
+		"cpfTomador": "00686300343",
+		"nomeTomador": "Caio",
+		"sobrenomeTomador": "Albuquerque Pinheiro",
+		"valorServico": 29.9,
+		"valorDeducao": 0.0,
+		"email": "caiopinheiro85@hotmail.com",
+		"dataEmissao": "Apr 26, 2019 4:02:45 PM",
+		"endereco": {
+			"id": 76752,
+			"logradouro": "Rua Doutor Adjemir Parahyba, nº 100 Edifício Touriz",
+			"numero": "Apartment ",
+			"complemento": "Apartment 500",
+			"bairro": "Engenheiro Luciano Cavalcante",
+			"cep": "60811270"
+		},
+		"cidade": {
+			"id": 674,
+			"nome": "Fortaleza",
+			"estado": "CE"
+		},
+		"numeroDaNfeCancelada": 251685,
+		"dataEmissaoNfeCancelada": "Apr 22, 2019 3:48:04 PM",
+		"idNotaFiscal": 514750
+	}
+]
