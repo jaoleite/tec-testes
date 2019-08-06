@@ -11,6 +11,7 @@ import javax.crypto.spec.SecretKeySpec;
 public class HmacSha1Signature {
 	private static final String HMAC_SHA1_ALGORITHM = "HmacSHA1";
 
+	@SuppressWarnings("resource")
 	private static String toHexString(byte[] bytes) {
 		Formatter formatter = new Formatter();
 

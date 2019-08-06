@@ -79,6 +79,7 @@ public enum URLEnum {
 		
 	}
 	
+	@SuppressWarnings({ "unchecked", "rawtypes" })
 	public static void main(String[] args) {
 		// Órgão e Banca geram URL por Sigla
 		// Cargo gera URL por Nome

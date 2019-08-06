@@ -5,12 +5,10 @@ import java.awt.Font;
 
 import org.apache.pivot.collections.Map;
 import org.apache.pivot.wtk.Application;
-import org.apache.pivot.wtk.Component;
 import org.apache.pivot.wtk.DesktopApplicationContext;
 import org.apache.pivot.wtk.Display;
 import org.apache.pivot.wtk.HorizontalAlignment;
 import org.apache.pivot.wtk.Label;
-import org.apache.pivot.wtk.TextArea;
 import org.apache.pivot.wtk.VerticalAlignment;
 import org.apache.pivot.wtk.Window;
 
@@ -28,9 +26,6 @@ public class NginxView implements Application {
 		label.getStyles().put("color", Color.RED);
 		label.getStyles().put("horizontalAlignment", HorizontalAlignment.CENTER);
 		label.getStyles().put("verticalAlignment", VerticalAlignment.CENTER);
-		
-		TextArea area = new TextArea();
-		
 		
 		window.setContent(label);
 		//window.add(label);

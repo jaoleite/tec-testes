@@ -6,7 +6,6 @@ import java.io.IOException;
 import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.time.LocalTime;
 import java.util.Date;
 import java.util.List;
 
@@ -36,12 +35,6 @@ public class TesteLogBBB {
 				int fim = linha.indexOf("]");
 				String string = linha.substring(inicio, fim);
 				String[] array = string.split("-");
-				HoMiSeg inicial = new HoMiSeg(array[0]);
-				HoMiSeg fina1 = new HoMiSeg(array[1]);
-				
-				
-				LocalTime timeInicio = LocalTime.of(inicial.hora, inicial.minuto, inicial.segundo);
-				LocalTime timeFim = LocalTime.of(fina1.hora, fina1.minuto, fina1.segundo);
 				
 				DateFormat dateFormat = new SimpleDateFormat("HH:mm:ss");
 				try {
@@ -54,41 +47,13 @@ public class TesteLogBBB {
 						System.out.println(i);
 					}
 					
-					
 				} catch (ParseException e) {
 					e.printStackTrace();
 				}
-				
-				/*int i = (int) (timeFim.toNanoOfDay() - timeInicio.toNanoOfDay() / 1000000000);
-				if(i > 1) {
-					System.out.println(i);
-				}*/
-				
-				
-				
-				//LocalDateTime.now().atZone(ZoneId.systemDefault()).toInstant().toEpochMilli()
 			}
 		}
 		System.out.println("FIM");
 	}
-	
-	
-	public class HoMiSeg {
-		private int hora;
-		
-		private int minuto;
-		
-		private int segundo;
-		
-		public HoMiSeg(String string) {
-			String[] arr = string.split(":");
-			this.hora = new Integer(arr[0]);
-			this.minuto = new Integer(arr[1]);
-			this.segundo = new Integer(arr[2]);
-		}
-		
-	}
-	
 	
 	public static void main(String[] args) {
 		new TesteLogBBB().teste();

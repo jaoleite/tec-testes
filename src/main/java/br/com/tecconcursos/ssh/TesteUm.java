@@ -59,13 +59,13 @@ public class TesteUm {
 		session = connect();
 		try {
 			session.connect();
-			String agora = formatDate(LocalDateTime.now());
+			//String agora = formatDate(LocalDateTime.now());
 			//String command = "sudo echo \"TESTE DE COMMANDO => agora são: " + agora +  "\" >> /home/ec2-user/temp/test.out";
-			String ip = "189.6.26.28";
+			//String ip = "189.6.26.28";
 			//String templateCommand = "sudo sh -c \"echo 'deny %s;' >> /etc/nginx/blockips.conf\"";
-			String templateCommand = "echo 'deny %s;' | sudo tee --append /etc/nginx/blockips.conf";
+			//String templateCommand = "echo 'deny %s;' | sudo tee --append /etc/nginx/blockips.conf";
 			
-			String command = String.format(templateCommand, ip);
+			//String command = String.format(templateCommand, ip);
 			String[] commands = {"sudo nginx -t"};
 			
 			for (String cmd : commands) {
@@ -95,7 +95,7 @@ public class TesteUm {
 		System.out.println("ExitStatus: " + channel.getExitStatus());
 	}
 	
-	private String formatDate(LocalDateTime agora) {
+	protected String formatDate(LocalDateTime agora) {
 		DateTimeFormatter formatador = DateTimeFormatter
 			.ofLocalizedDateTime(FormatStyle.MEDIUM)
 			.withLocale(LOCALE_PT_BR);
