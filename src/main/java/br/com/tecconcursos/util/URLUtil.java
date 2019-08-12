@@ -32,13 +32,9 @@ public class URLUtil {
 	}
 	
 	public static void main(String[] args) {
-		String nome = "Auxiliar Judiciário (TJ AM)";
-		Orgao orgao = new Orgao();
-		orgao.setSigla(nome);
-		//gerarURL(orgao);
-		
 		Cargo cargo = new Cargo();
-		cargo.setNome(nome);
+		cargo.setNome("Técnico Federal de Controle Externo (TCU)");
+		cargo.setSigla("TEFC (TCU)");
 		gerarURL(cargo);
 	}
 }
