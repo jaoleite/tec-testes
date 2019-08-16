@@ -33,8 +33,12 @@ public class URLUtil {
 	
 	public static void main(String[] args) {
 		Cargo cargo = new Cargo();
-		cargo.setNome("Técnico Federal de Controle Externo (TCU)");
-		cargo.setSigla("TEFC (TCU)");
+		cargo.setNome("Agente de Segurança Socioeducativo (SAP SC)");
+		cargo.setSigla("Ag SS (SAP SC)");
 		gerarURL(cargo);
+		Orgao orgao = new Orgao();
+		orgao.setNome("Secretaria de Estado da Administração Prisional e Socioeducativa de Santa Catarina");
+		orgao.setSigla("SAP SC");
+		gerarURL(orgao);
 	}
 }
