@@ -1,0 +1,318 @@
+https://www.google.com/search?q=validar+sitemap&rlz=1C1GCEB_enBR893BR893&oq=validar+site+ma&aqs=chrome.1.69i57j0.4948j0j7&sourceid=chrome&ie=UTF-8
+https://support.google.com/webmasters/answer/183668?hl=pt-BR
+https://support.google.com/webmasters/answer/139066
+https://search.google.com/search-console/inspect?resource_id=https%3A%2F%2Fwww.tecconcursos.com.br%2F&id=VGg_qqJ4OJ4RYSoJ4NZ9Dg
+https://www.sitemaps.org/pt_BR/protocol.html
+
+
+
+=================================================================================================================================================================
+
+https://downdetector.com.br/
+https://pdf2docx.com/pt/
+
+https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/id_credentials_mfa_lost-or-broken.html
+https://426455597176.signin.aws.amazon.com/console
+
+https://github.com/web-push-libs/webpush-java
+https://github.com/ralscha/blog2019/blob/master/webpush/src/main/java/ch/rasc/webpush/PushController.java#L181-L190
+https://github.com/oktadeveloper/okta-java-jwt-example
+https://golb.hplar.ch/2019/08/webpush-java.html
+https://developers.google.com/web/fundamentals/codelabs/push-notifications
+https://www.programcreek.com/java-api-examples/?code=web-push-libs%2Fwebpush-java%2Fwebpush-java-master%2Fsrc%2Fmain%2Fjava%2Fnl%2Fmartijndwars%2Fwebpush%2FPushService.java
+https://github.com/web-push-libs/webpush-java/wiki/Usage-Example
+
+
+https://developer.okta.com/blog/2018/10/31/jwts-with-java
+https://jwt.io/introduction/
+https://token-auth.ac.gov.br/documentation
+https://medium.com/trainingcenter/json-web-tokens-explicado-dba4ae3a9579
+https://medium.com/rapaduratech/criando-um-token-jwt-para-autentica%C3%A7%C3%A3o-em-spring-boot-371ccb54a093
+https://www.guj.com.br/t/minha-contribuicao-controle-de-acesso-vraptor-3/296305
+https://github.com/caelum/vraptor-mauth
+https://medium.com/@josevieiraneto/push-notifications-com-server-sent-events-spring-boot-c2b7ee6febe9
+
+
+
+public static void main(String[] args) {
+	// ALTERACAO DE URL DE CARGO
+	// select * from public.cargo where id = 7239;
+	// select id, area, especialidade, edicao, ano, urlconcurso from concurso where cargo_id = 7239;
+
+	//Verificar se existe guia e alterar a url do guia caso exista
+	// select * from public.guia where guia.concurso_id = 18947;
+
+	// Colocar no redirecionamento as url's alteradas (concurso e guias)
+	// https://www.tecconcursos.com.br/area-restrita/redirecionamento/
+
+	String cargoNome = "Auxiliar (Pref GYN)";
+
+	String area = "Atividades Educativas";
+	Integer ano = 2016;
+	String especialidade = null;
+	String edicao = null;
+
+	System.out.println("Url do Cargo: " + Util.gerarUrl(cargoNome));
+	// engenheiro-uberlandia
+	Cargo cargo = new Cargo();
+	cargo.setNome(cargoNome);
+	Concurso concurso = new Concurso();
+	concurso.setAno(ano);
+	concurso.setArea(area);
+	concurso.setCargo(cargo);
+	concurso.setEspecialidade(especialidade);
+	concurso.setEdicao(edicao);
+
+	String urlConcurso = URLConcursoHelper.gerarURLConcurso(concurso);
+	System.out.println("Url do concurso: " + urlConcurso);
+	
+	
+	// select * from orgao where id = 388;
+	// select * from edital where orgao_id = 388 order by id
+	String sigla = "DEPEN MG";
+	ano = 2013;
+	Edital edital = new Edital();
+	Orgao orgao = new Orgao();
+	orgao.setSigla(sigla);
+	edital.setOrgao(orgao);
+	edital.setAno(ano);
+	
+	String urlOrgao = Util.gerarUrl(sigla);
+	String urlEdital = URLConcursoEditalGuiaHelper.gerarURLEdital(edital);
+	System.out.println();
+	System.out.println("Url do Orgao: " + urlOrgao);
+	System.out.println("Url do edital: " + urlEdital);
+
+}
+
+
+https://codeascraft.com/2012/12/13/mctop-a-tool-for-analyzing-memcache-get-traffic/
+https://github.com/flosell/ultrahook-java-client/blob/master/src/main/java/com/ultrahook/UltrahookClient.java
+https://blog.caelum.com.br/morte-a-sessao-entenda-esse-tal-de-stateless-session-com-tokens/
+https://cloud.google.com/appengine/docs/standard/php/memcache?hl=pt-br
+https://stackoverflow.com/questions/18482277/memcached-integration-with-hibernate
+https://github.com/raykrueger/hibernate-memcached
+https://github.com/mihaicostin/hibernate-l2-memcached
+https://www.javaworld.com/article/2078584/open-source-tools-use-memcached-for-java-enterprise-performance-part-2-database-driven-web-apps.html
+https://aws.amazon.com/pt/memcached/
+https://www.itexto.com.br/devkico/?p=692
+https://github.com/memcached/memcached/wiki
+https://github.com/memcached/memcached/wiki/TutorialCachingStory
+https://github.com/memcached/memcached/wiki/ConfiguringServer
+https://github.com/memcached/memcached/wiki/ConfiguringClient
+https://github.com/memcached/memcached/wiki/Commands#gets
+https://github.com/memcached/memcached/wiki/Commands#stats-items
+https://www.journaldev.com/24/memcached-java-client-example
+https://www.javatpoint.com/memcached-tutorial
+https://docs.aws.amazon.com/AmazonElastiCache/latest/mem-ug/Scaling.html
+https://help.cloud66.com/node/how-to-guides/add-ins/memcached.html
+https://github.com/magro/memcached-session-manager/wiki/SetupAndConfiguration
+
+
+O nginx, é alterando o arquivo:/etc/nginx/blockips.conf
+#primeiro testa o arquivo:
+sudo nginx -t
+#depois restarta
+sudo nginx -s reload
+
+
+Colocar usuario no Lero Lero
+	Dar um insert na tabela usuariositebanido
+
+Verificar se o IP é realmente do Google
+	no arquivo de logs do nginx ele loga o useragent. Se for do google, vai aparecer lá como Googlebot
+	o arquivo fica em /var/log/nginx/access.log
+		
+
+Tirar IP do Google que foi barrado
+	alterar o arquivo:/etc/nginx/blockips.conf
+	depois de alterar tem que dar start nele:
+		primeiro testa o arquivo: sudo nginx -t
+		depois restarta: sudo nginx -s reload
+
+
+==================================================================================================================================================================================================================================
+PAGAR ME
+
+Fluxo de pagamento
+https://pagarme.zendesk.com/hc/pt-br/articles/360000215732-Fluxo-de-cobran%C3%A7a-de-uma-assinatura-
+
+
+https://docs.pagar.me/docs/realizando-uma-transacao-de-cartao-de-credito
+https://github.com/pagarme/pagarme-java/blob/master/src/test/java/me/pagarme/factory/TransactionFactory.java
+https://dashboard.pagar.me/#/login
+https://docs.pagar.me/v3/reference#calculando-pagamentos-parcelados
+https://docs.pagar.me/v3/docs/chave-de-refer%C3%AAncia
+https://mvnrepository.com/artifact/me.pagar/pagarme-java
+https://github.com/pagarme/pagarme-java
+
+
+ElasticSearch
+https://www.mundipagg.com/blog/mandamentos-do-elasticsearch-em-producao/
+https://imasters.com.br/desenvolvimento/elasticsearch-como-criar-seu-servidor-de-busca-e-ter-um-site-ate-278-vezes-mais-rapido
+
+Multi Search
+https://www.elastic.co/guide/en/elasticsearch/reference/5.5/search-multi-search.html
+
+
+==================================================================================================================================================================================================================================
+
+VRaptor 3 com Java 8
+https://groups.google.com/forum/m/#!topic/caelum-vraptor/ay0qoBO-Mdo
+https://respostas.guj.com.br/22182-vraptor3-nao-funciona-com-java-8
+
+==================================================================================================================================================================================================================================
+
+
+Memcached
+https://github.com/magro/memcached-session-manager/wiki/SetupAndConfiguration
+https://stackoverflow.com/questions/10691528/how-to-connection-pool-memcached-in-java-spymemcached
+
+
+
+
+==================================================================================================================================================================================================================================
+
+
+Java Mail
+http://www.codejava.net/java-ee/javamail/using-javamail-for-searching-e-mail-messages
+
+
+==================================================================================================================================================================================================================================
+
+Tapestry
+https://tapestry.apache.org/getting-started.html
+https://blog.markshead.com/900/tapestry-5-10-minute-demo/
+
+==================================================================================================================================================================================================================================
+
+Velocity:
+http://www.java2s.com/Code/Java/Velocity/VelocityCommentsMultiline.htm
+http://velocity.apache.org/engine/1.7/vtl-reference.html
+https://stackoverflow.com/questions/6998412/velocity-string-function
+https://stackoverflow.com/questions/8820240/how-to-format-numbers-in-velocity-templates
+http://velocity.apache.org/tools/devel/generic.html
+http://velocity.apache.org/tools/devel/apidocs/org/apache/velocity/tools/generic/DisplayTool.html
+
+==================================================================================================================================================================================================================================
+
+
+
+https://mvnrepository.com/artifact/br.com.caelum.stella/caelum-stella-core
+http://blog.caelum.com.br/novo-caelum-stella-2-0/
+http://stella.caelum.com.br/
+
+https://www.tutorialspoint.com/How-to-validate-email-using-jQuery
+https://stackoverflow.com/questions/2507030/email-validation-using-jquery
+https://www.todoespacoonline.com/w/2014/11/como-validar-cpf-e-cnpj-com-javascript-ou-jquery/
+https://forum.imasters.com.br/topic/495335-validar-cpf-com-jquery/
+
+Memcached
+	Limpar cache
+		telnet localhost 11211
+		flush_all
+		quit
+	https://serverfault.com/questions/259114/how-to-restart-clear-memcache-without-restarting-the-whole-web-server/768579
+	
+	Comandos
+	https://lzone.de/cheat-sheet/memcached
+
+
+Status e index <c:forEach>:
+	https://stackoverflow.com/questions/6600738/use-jstl-foreach-loops-varstatus-as-an-id
+	
+
+Funcion format JavaScript (subistituir {0} {1} etc por valores)
+	https://stackoverflow.com/questions/1038746/equivalent-of-string-format-in-jquery
+
+
+http://localhost/tec-site-web/central-guia/agrupamento/guia/mpu
+http://localhost/tec-site-web/central-guia/agrupamento/edital/mpu
+http://localhost/tec-site-web/guia/mpu-2006
+
+
+SimpleCaptcha
+http://simplecaptcha.sourceforge.net/
+
+
+====================================================================================================================
+Sessao
+http://blog.caelum.com.br/morte-a-sessao-entenda-esse-tal-de-stateless-session-com-tokens/
+https://www.caelum.com.br/apostila-java-web/spring-mvc-autenticacao-e-autorizacao/
+
+
+SASS
+https://www.quackit.com/css/examples/
+https://www.quackit.com/css/flexbox/examples/
+https://sass-lang.com/guide
+https://tutorialzine.com/2016/01/learn-sass-in-15-minutes
+https://medium.com/gummaoficial/compilando-sass-com-gulp-ed1e5f9ed417
+https://webdesign.tutsplus.com/pt/tutorials/watch-and-compile-sass-in-five-quick-steps--cms-28275
+
+
+====================================================================================================================
+
+Problema tomcat 9 + java 9 + melody
+	https://github.com/nhachicha/SnappyDB/issues/8
+	https://github.com/javamelody/javamelody/issues/556
+	https://www.google.com.br/search?q=java.lang.NoSuchMethodError%3A+sun.nio.ch.DirectBuffer.cleaner()Lsun%2Fmisc%2FCleaner&oq=java.lang.NoSuchMethodError%3A+sun.nio.ch.DirectBuffer.cleaner()Lsun%2Fmisc%2FCleaner&aqs=chrome..69i57.287j0j7&sourceid=chrome&ie=UTF-8
+	https://github.com/javamelody/javamelody/blob/master/javamelody-core/src/main/quartz/net/bull/javamelody/internal/model/Quartz2Adapter.java
+
+Tomcat 9 + Memcached
+https://github.com/magro/memcached-session-manager/wiki/SetupAndConfiguration
+https://github.com/magro/memcached-session-manager
+
+
+====================================================================================================================
+
+Java SSH
+http://www.jcraft.com/
+http://www.jcraft.com/jsch/examples/
+
+Java AWT Framework
+https://stackoverflow.com/questions/13832590/framework-for-mvc-in-desktop-non-web-application
+http://pivot.apache.org/tutorials/
+https://stackoverflow.com/questions/7358775/java-gui-frameworks-what-to-choose-swing-swt-awt-swingx-jgoodies-javafx
+https://en.wikipedia.org/wiki/Standard_Widget_Toolkit#Look_and_feel
+http://www.jgoodies.com/freeware/libraries/forms/
+
+====================================================================================================================
+
+
+================================ Prefeitura barueri ==================================
+https://www.barueri.sp.gov.br/nfe/wfPrincipalNF.aspx
+Login: 13376691649
+Senha: T3cb@ru3r1
+080214211	TREINAMENTO	2,00
+
+Visualizar Nota por RPS, não precisa logar
+https://www.barueri.sp.gov.br/nfe/wfConsultaRPS.aspx
+
+https://www.barueri.sp.gov.br/PMB/PortalServicos/WF/wfautenticacao.aspx?TpLogin=3
+
+===================================== PagarMe==========================================
+Meu Login:
+	Login: jaoleitepagarme@gmail.com
+	Senha:
+
+Login master:
+	Login: vitor@tecconcursos.com.br
+	Senha: T3cr1c0m
+
+=========================================================================================
+
+Jira
+Versionamento: https://tecconcursos.atlassian.net/projects/TEC
+	
+=========================================================================================
+
+CEP
+https://pt.stackoverflow.com/questions/400/como-buscar-um-endere%C3%A7o-por-cep-nos-correios
+http://cepaberto.com/
+http://www.qualocep.com/busca-cep/91280247
+
+WebStorage
+https://github.com/mdn/dom-examples/tree/master/web-storage
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API
+https://www.w3schools.com/html/html5_webstorage.asp
+

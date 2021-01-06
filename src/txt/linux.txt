@@ -1,0 +1,65 @@
+Matar processo
+	ps -ef | grep archiva
+	kill -9 13397
+
+Alterar Dono
+	chown -R novo_dono arquivo_ou_pasta
+
+Criar diretorio
+	mkdir nome_diretorio
+
+vim
+	1) Chegar no final do arquivo: <ESC> then <SHIFT> + G
+	2) Busca por palavra: /\<word\> ( /\<administrador@tecconcursos.com.br \> )
+	
+grep
+	grep administrador@tecconcursos.com.br requests.log
+
+zgrep
+	zgrep email@gmail.com requests.log.*-201805*-*.gz >> ~/requests.txt
+		No exemplo diz que vai pesquisar em todos os arquivos que começam com requests.log e terminam com .gz e que contenham 201805. Isso é para pegar por mês,
+		no caso, o mês de maio de 2018
+
+Bloqueio de IP
+Acessar o arquivo: /etc/nginx/blockips.conf
+Adcicionar a linha: deny 187.59.127.230;
+Testar se o arquivo de configuração está correto: nginx -t
+Recarregar o arquivo de configuração: nginx -s reload
+
+
+Renomear arquivos
+mv filename1.ext filename2.ext
+
+=====================================================================
+vim /etc/nginx/blockips.conf
+deny 167.160.113.30;
+nginx -t
+nginx -s reload
+
+n3vwm@travala10.com
+189.6.26.28 6qc0g@hubii-network.com
+
+
+sed -i 's/200.73.20.101//g' teste.txt
+https://askubuntu.com/questions/20414/find-and-replace-text-within-a-file-using-commands
+https://unix.stackexchange.com/questions/112023/how-can-i-replace-a-string-in-a-files
+
+
+
+https://www.digitalocean.com/community/tutorials/how-to-use-ssh-to-connect-to-a-remote-server-in-ubuntu
+
+UBUNTO Windows 10
+https://askubuntu.com/questions/759880/where-is-the-ubuntu-file-system-root-directory-in-windows-subsystem-for-linux-an
+
+=================================================================================================================
+PostgreSQL
+Criação de variáves
+WITH myconstants (var1, var2) as (
+   values (5, 'foo')
+)
+SELECT *
+FROM somewhere, myconstants
+WHERE something = var1
+   OR something_else = var2;
+
+(tem que ser select * from myconstants)

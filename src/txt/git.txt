@@ -1,0 +1,50 @@
+MEU GIT:					|
+https://github.com/jaoleite	|
+https://github.com/login	|
+(verificação em 2 etapas	|
+	enviado para o yahoo)	|
+usuario: jaoleite			|
+senha: And0r1nh@			|
+____________________________|
+
+
+Criar pull request
+https://bitbucket.org/admintec/tecconcursos/branches/
+
+Criar branch pelo Jira
+
+GIT - cherry-pick
+Mandar do develop para o master
+	git checkout master
+	git cherry-pick (HASH)
+	git push
+	Obs: Se tiver mais de 1 commit na mesma pendência: Começar do mais antigo para o mais novo. Fazer cherry-pick de cada um e após o push. (não preciva fazer cherry-pick e push repetidades vezes)
+	(esse hash é o código hash do commit que vc quer mandar pra lá
+	ele pega só esse commit e aplica lá no master)
+
+GIT + Jira
+
+https://bitbucket.org/tecconcursos/tec2.0/src/develop/
+
+https://confluence.atlassian.com/bitbucket/use-smart-commits-298979931.html
+Onde está descrito sobre Start Review (#start-review) tbm funciona #start-test
+
+git reset --hard origin/jira/TEC-1827
+
+Criar novo branch
+	1) Criar pelo eclipse a prtir do que vc está ou utilizar o comando: git checkout -b feature_branch_name
+	2) Commitar para o remoto: git push -u origin feature_branch_name
+	Obs: não precisa empilhar, para criar um remoto. Cria a partir do que está
+	
+
+GIT STASH (antes de tudo, colocar no index, pois aí pega o que foi deletado e adicionado)
+git stash
+git status
+git stash list
+git stash apply
+
+para enviar novos para o stash, utilizar o comando (https://stackoverflow.com/questions/835501/how-do-you-stash-an-untracked-file)
+git stash --include-untracked
+
+
+Saved working directory and index state WIP on develop: 3034c8c53 TEC-1959 - resolve bugs
