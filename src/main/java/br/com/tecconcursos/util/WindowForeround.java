@@ -5,9 +5,7 @@ import java.awt.Frame;
 import java.awt.Robot;
 import java.awt.event.KeyEvent;
 
-import sun.awt.windows.WComponentPeer;
-
-@SuppressWarnings("restriction")
+//@SuppressWarnings("restriction")
 public class WindowForeround {
 
 	public WindowForeround() {
@@ -32,9 +30,10 @@ public class WindowForeround {
 		robot.keyRelease(KeyEvent.VK_ALT);
 	}
 	
-	@SuppressWarnings({ "deprecation"})
+	//@SuppressWarnings({ "deprecation"})
 	public static long getWnd(Frame frame) {
-		return frame.getPeer() != null ? ((WComponentPeer) frame.getPeer()).getHWnd() : 0;
+		//return frame.getPeer() != null ? ((WComponentPeer) frame.getPeer()).getHWnd() : 0;
+		return 0;
 	}
 	
 	public static void main(String[] args) {

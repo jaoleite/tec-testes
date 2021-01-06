@@ -21,8 +21,6 @@ import br.com.tecconcursos.context.ApplicationContext;
 import br.com.tecconcursos.entity.NotaFiscal;
 import br.com.tecconcursos.entity.NotaFiscalLoteRps;
 import br.com.tecconcursos.entity.enumeration.NotaFiscalTipoPrefeituraEnum;
-import br.com.tecconcursos.nfe.rps.NfeBarueriRpsTemplate;
-import br.com.tecconcursos.nfe.rps.RpsHelper;
 import br.com.tecconcursos.service.GerenciamentoNotaFiscalService;
 import br.com.tecconcursos.service.RpsBarueriService;
 import br.com.tecconcursos.to.nfe.TomadorDto;
