@@ -2,8 +2,8 @@ conta nintendo francine
 ID: francinesanchez
 senha: ju695120
 
-
-
+Descobrir a chave do windows:
+wmic path softwareLicensingService get OA3xOriginalProductKey
 
 Para executar uma ferramenta do Painel de Controle no Windows, digite o comando apropriado na caixa Abrir ou em um prompt de comando.
 

@@ -1,9 +1,53 @@
+Fala Jão! blz?
+
+Quando chega o FC de usuario querendo migrar para avançado, eu faço o seguinte:
+
+Verifico quantos dias ele ainda tem de padrão;
+Converto os dias em plano avançado para o caso dele optar por trocar por avançado sem custo e a nova data de expiração se ele trocar;
+Adiciono o id dele na tabela parametrização pra ele poder ver a tela de compra da BF;
+Entro pela conta dele e altero o status do pedido para CANCELADA para poder ver quando ele pagaria considerando os dias que ainda tem de padrão e depois volto o status para APROVADA.
+Com todos esses dados eu troco as variáveis no email padrão abaixo que eu mando para o Denga responder para o usuário:
+
+
+
+Existem duas opções:
+1) Sem custo: Trocar os 323 dias de Plano Padrão que você possui por 162 dias do Plano Avançado, com isso a expiração do acesso do Avançado ficaria em 29/06/2021. Só existe um problema em fazer a troca, é que, ao final do período não será possível entrar na assinatura recorrente do plano avançado com valor promocional da Black Friday, mas sim a do Plano Padrão. Isso acontece porque o sistema vai identificar que essa foi uma compra da promoção do Plano Padrão, e não do Avançado.
+
+2) Pagando a diferença: Pode adquirir o Plano Avançado anual com o valor da promoção da Black Friday. 
+Considerando o desconto baseado nos dias de acesso que ainda tem no plano padrão atual, o valor seria de R$ 243,01 para 1 ano do Plano Avançado. 
+Nesse caso, se fizer o upgrade, no fim do acesso será possível entrar na assinatura recorrente mensal do plano Avançado pelo valor promocional da BlackFriday, que no caso ficaria: R$ 39,90 mensal
+Mas caso não queira entrar na assinatura recorrente automática é só nos avisar que podemos removê-lo.
+
+
+
+select
+liberacao.id,
+expiracao - current_date as "Dias Padrão",
+ceil((expiracao - current_date) / 2.0) as "Dias avançado",
+to_char((current_date + (ceil((expiracao - current_date) / 2.0))::integer), 'DD/MM/YYYY') as "Nova Expiração",
+produto.nome as "Produto"
+from
+	liberacao
+	inner join produto on produto.id = liberacao.produto_id
+where usuariosite_id = (select id from usuariosite where email = 'sport.zen@hotmail.com') and expiracao >= now()  order by liberacao.id; -- 237,90
+
+select * from pedido where usuariosite_id = (select id from usuariosite where email = 'sport.zen@hotmail.com') and tipopagamento = 'PAGAR_ME_PROMOCAO' and status = 'APROVADA'; -- CANCELADA
+
+
+
+
+=================================================================================================================================================================
+
+
+
+
+
 https://www.google.com/search?q=validar+sitemap&rlz=1C1GCEB_enBR893BR893&oq=validar+site+ma&aqs=chrome.1.69i57j0.4948j0j7&sourceid=chrome&ie=UTF-8
 https://support.google.com/webmasters/answer/183668?hl=pt-BR
 https://support.google.com/webmasters/answer/139066
 https://search.google.com/search-console/inspect?resource_id=https%3A%2F%2Fwww.tecconcursos.com.br%2F&id=VGg_qqJ4OJ4RYSoJ4NZ9Dg
 https://www.sitemaps.org/pt_BR/protocol.html
-
+https://pt.stackoverflow.com/questions/105409/apache-tomcat-configura%C3%A7%C3%A3o-para-produ%C3%A7%C3%A3o
 
 
 =================================================================================================================================================================
